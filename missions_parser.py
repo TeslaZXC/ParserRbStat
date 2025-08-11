@@ -12,7 +12,7 @@ URL = "http://stats.red-bear.ru/"
 def sanitize_filename(filename):
     return re.sub(r'[<>:"/\\|?*]', '', filename)
 
-def parse_ocap_table(url, limit=100, months=1):
+def parse_ocap_table(url, limit=100, months=3):
     response = requests.get(url, headers=HEADERS)
     response.raise_for_status()
 
@@ -34,7 +34,7 @@ def parse_ocap_table(url, limit=100, months=1):
     rows = sorted(rows, key=extract_id, reverse=True)
     rows = rows[:limit]
 
-    days_ago = months * 30 
+    days_ago = months * 30
     date_threshold = datetime.now() - timedelta(days=days_ago)
 
     missions = []

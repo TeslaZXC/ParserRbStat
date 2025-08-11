@@ -40,7 +40,7 @@ def main_loop():
         new_missions = [m for m in missions if m['id'] not in processed_ids]
 
         if not new_missions:
-            log("Новых миссий нет. Ждём 1 минуту...")
+            log("Новых миссий нет.")
         else:
             log(f"Новых миссий для парсинга: {len(new_missions)}")
 
@@ -59,9 +59,16 @@ def main_loop():
                     log(f"Ошибка при обработке миссии {mission['mission_name']}: {e}")
                     traceback.print_exc()
 
-            aggregate_stats()
             save_processed_missions(processed_ids)
+
+        # Обновляем статистику **в любом случае** после получения миссий (независимо от новых)
+        try:
+            log("Обновляем общую статистику...")
+            aggregate_stats()
             log("Общая статистика обновлена.")
+        except Exception as e:
+            log(f"Ошибка при обновлении статистики: {e}")
+            traceback.print_exc()
 
         time.sleep(60)
 

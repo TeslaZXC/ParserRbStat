@@ -25,7 +25,9 @@
                     "time": "0:47:25",
                     "victim_name": "KORD (6U16)",
                     "distance": "-1m",
-                    "weapon": "no weapon"
+                    "weapon": "no weapon",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": null
@@ -44,7 +46,9 @@
                 "time": "0:14:49",
                 "victim_name": "[LG]heizy",
                 "distance": "2704m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -61,7 +65,9 @@
                 "time": "0:22:11",
                 "victim_name": "[СМЕРШ]SomM",
                 "distance": "966m",
-                "weapon": "M14 EBR-RI"
+                "weapon": "M14 EBR-RI",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -78,7 +84,9 @@
                 "time": "0:24:51",
                 "victim_name": "GAZ-66 (ZU-23-2)",
                 "distance": "594m",
-                "weapon": "no weapon"
+                "weapon": "no weapon",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -95,7 +103,9 @@
                 "time": "0:30:09",
                 "victim_name": "[LG]heizy",
                 "distance": "380m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -112,7 +122,9 @@
                 "time": "0:26:28",
                 "victim_name": "[NT] ykcul",
                 "distance": "286m",
-                "weapon": "ПМ"
+                "weapon": "ПМ",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -129,7 +141,9 @@
                     "time": "0:20:23",
                     "victim_name": "Alex_23",
                     "distance": "234m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -137,7 +151,9 @@
                 "time": "0:24:54",
                 "victim_name": "[STELS]Petrucho",
                 "distance": "508m",
-                "weapon": "M14 EBR-RI"
+                "weapon": "M14 EBR-RI",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -154,7 +170,9 @@
                 "time": "0:20:23",
                 "victim_name": "zlodei",
                 "distance": "234m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -171,7 +189,9 @@
                 "time": "0:26:51",
                 "victim_name": "Dw. Bear_Baby_Bear",
                 "distance": "118m",
-                "weapon": "M4A1"
+                "weapon": "M4A1",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -188,7 +208,9 @@
                 "time": "0:40:56",
                 "victim_name": "[TERA] Iskra",
                 "distance": "131m",
-                "weapon": "АКС-74У"
+                "weapon": "АКС-74У",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -205,7 +227,9 @@
                 "time": "0:47:16",
                 "victim_name": "[NT]Blackburn",
                 "distance": "19m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -222,7 +246,9 @@
                     "time": "0:26:39",
                     "victim_name": "[CBR]yod",
                     "distance": "2m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -230,7 +256,9 @@
                 "time": "0:26:48",
                 "victim_name": "[CBR]Cherchi",
                 "distance": "214m",
-                "weapon": "M14 EBR-RI"
+                "weapon": "M14 EBR-RI",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -247,7 +275,9 @@
                 "time": "0:27:50",
                 "victim_name": "[RMC] Kypatop",
                 "distance": "104m",
-                "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]"
+                "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -264,7 +294,9 @@
                 "time": "0:24:49",
                 "victim_name": "[RMC] Marshall",
                 "distance": "127m",
-                "weapon": "АКС-74У"
+                "weapon": "АКС-74У",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -281,7 +313,9 @@
                     "time": "0:23:30",
                     "victim_name": "[UN]BATRA",
                     "distance": "141m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -289,7 +323,9 @@
                 "time": "0:26:39",
                 "victim_name": "[UN]DED",
                 "distance": "2m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -306,7 +342,9 @@
                     "time": "0:26:22",
                     "victim_name": "[RMC] Teng",
                     "distance": "130m",
-                    "weapon": "M4A1"
+                    "weapon": "M4A1",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -314,7 +352,9 @@
                 "time": "0:31:23",
                 "victim_name": "[RMC] Kypatop",
                 "distance": "162m",
-                "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]"
+                "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -331,7 +371,9 @@
                 "time": "0:24:57",
                 "victim_name": "[13th] Doloman",
                 "distance": "1131m",
-                "weapon": "M4A1"
+                "weapon": "M4A1",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -348,7 +390,9 @@
                 "time": "0:23:29",
                 "victim_name": "[CBR]Cherchi",
                 "distance": "236m",
-                "weapon": "M14 EBR-RI"
+                "weapon": "M14 EBR-RI",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -365,7 +409,9 @@
                 "time": "0:53:54",
                 "victim_name": "[NT] Marnet",
                 "distance": "7m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -382,7 +428,9 @@
                 "time": "0:46:48",
                 "victim_name": "[RDO] Nael",
                 "distance": "12m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -399,7 +447,9 @@
                 "time": "0:38:28",
                 "victim_name": "[NT] Gookowski",
                 "distance": "172m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -416,7 +466,9 @@
                 "time": "0:34:16",
                 "victim_name": "[NT] SexFlexer",
                 "distance": "2m",
-                "weapon": "АК-74Н слива (ГП-25)"
+                "weapon": "АК-74Н слива (ГП-25)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -433,7 +485,9 @@
                 "time": "0:40:47",
                 "victim_name": "[NT] Gookowski",
                 "distance": "211m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -450,7 +504,9 @@
                 "time": "0:34:32",
                 "victim_name": "[VRG] Dank",
                 "distance": "28m",
-                "weapon": "АК-74Н слива (ГП-25)"
+                "weapon": "АК-74Н слива (ГП-25)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -467,105 +523,135 @@
                     "time": "0:14:49",
                     "victim_name": "[UN]Исак",
                     "distance": "2704m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:14:49",
                     "victim_name": "BTR-80",
                     "distance": "2704m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:25:29",
                     "victim_name": "[RMC] Uktus",
                     "distance": "410m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:30:03",
                     "victim_name": "[RMC] Marshall",
                     "distance": "380m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:30:09",
                     "victim_name": "T-80UK",
                     "distance": "380m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:37:58",
                     "victim_name": "[NT] ykcul",
                     "distance": "596m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:39:15",
                     "victim_name": "[TERA] Winston",
                     "distance": "457m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:39:58",
                     "victim_name": "[SYND] Герань",
                     "distance": "443m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:40:03",
                     "victim_name": "[SYND] Pipinkorotkiy",
                     "distance": "452m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:42:32",
                     "victim_name": "[TERA] Матрёшка",
                     "distance": "318m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:42:32",
                     "victim_name": "[TERA] Pepel",
                     "distance": "316m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:43:04",
                     "victim_name": "[TERA] Nekip",
                     "distance": "472m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:43:30",
                     "victim_name": "[AGG] Fox in Panzer",
                     "distance": "86m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:44:53",
                     "victim_name": "[VRG] Kovalski",
                     "distance": "955m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:47:25",
                     "victim_name": "[NT]Blackburn",
                     "distance": "24m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": null
@@ -584,7 +670,9 @@
                 "time": "0:39:21",
                 "victim_name": "[520th] Эфедрин",
                 "distance": "475m",
-                "weapon": "M4A1"
+                "weapon": "M4A1",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -601,7 +689,9 @@
                 "time": "0:29:18",
                 "victim_name": "[CBR]Cherchi",
                 "distance": "337m",
-                "weapon": "M14 EBR-RI"
+                "weapon": "M14 EBR-RI",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -618,7 +708,9 @@
                 "time": "0:23:30",
                 "victim_name": "[CBR]yod",
                 "distance": "141m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -635,7 +727,9 @@
                     "time": "0:29:33",
                     "victim_name": "[CBR]lukam",
                     "distance": "650m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -643,7 +737,9 @@
                 "time": "0:32:18",
                 "victim_name": "[CBR]Cherchi",
                 "distance": "884m",
-                "weapon": "M14 EBR-RI"
+                "weapon": "M14 EBR-RI",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -660,35 +756,45 @@
                     "time": "0:32:00",
                     "victim_name": "[RMC] Kypatop",
                     "distance": "128m",
-                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:33:46",
                     "victim_name": "Hafiz Habibzai",
                     "distance": "17m",
-                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:33:48",
                     "victim_name": "Hasib Ajani",
                     "distance": "16m",
-                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:34:25",
                     "victim_name": "[AGG]trinadtsatiyyy",
                     "distance": "1176m",
-                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:34:36",
                     "victim_name": "GAZ-66 (ZU-23-2)",
                     "distance": "1162m",
-                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -696,7 +802,9 @@
                 "time": "0:43:50",
                 "victim_name": "[TERA]Zloy",
                 "distance": "37m",
-                "weapon": "АК-74Н слива (ГП-25)"
+                "weapon": "АК-74Н слива (ГП-25)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -713,7 +821,9 @@
                 "time": "0:43:18",
                 "victim_name": "[TERA] Pepel",
                 "distance": "341m",
-                "weapon": "ПМ"
+                "weapon": "ПМ",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -730,7 +840,9 @@
                 "time": "0:45:00",
                 "victim_name": "[SYND] Arssik7",
                 "distance": "328m",
-                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -747,7 +859,9 @@
                 "time": "0:23:52",
                 "victim_name": "[VRG] Matvein",
                 "distance": "29m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -764,7 +878,9 @@
                 "time": "0:29:33",
                 "victim_name": "[UN]Farid",
                 "distance": "650m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -781,7 +897,9 @@
                 "time": "0:47:08",
                 "victim_name": "[NT]Blackburn",
                 "distance": "20m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -798,14 +916,18 @@
                     "time": "0:26:28",
                     "victim_name": "[13th] Godzilla",
                     "distance": "286m",
-                    "weapon": "ПМ"
+                    "weapon": "ПМ",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:26:28",
                     "victim_name": "UH-60M",
                     "distance": "286m",
-                    "weapon": "ПМ"
+                    "weapon": "ПМ",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -813,7 +935,9 @@
                 "time": "0:37:58",
                 "victim_name": "[LG]heizy",
                 "distance": "596m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -830,35 +954,45 @@
                     "time": "0:35:17",
                     "victim_name": "[STELS]Zealot",
                     "distance": "581m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:37:09",
                     "victim_name": "[СМЕРШ]Zaba4",
                     "distance": "10m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:43:28",
                     "victim_name": "[STELS]Petrucho",
                     "distance": "250m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:46:48",
                     "victim_name": "[7th]Gnev",
                     "distance": "12m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:48:26",
                     "victim_name": "[7th]Amogus",
                     "distance": "43m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": null
@@ -877,7 +1011,9 @@
                 "time": "0:40:45",
                 "victim_name": "[TERA] Winston",
                 "distance": "96m",
-                "weapon": "ПМ"
+                "weapon": "ПМ",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -894,7 +1030,9 @@
                     "time": "0:26:14",
                     "victim_name": "[13th] CaH4e3",
                     "distance": "124m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -902,7 +1040,9 @@
                 "time": "0:26:22",
                 "victim_name": "[JW] BAN",
                 "distance": "130m",
-                "weapon": "M4A1"
+                "weapon": "M4A1",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -919,14 +1059,18 @@
                     "time": "0:38:15",
                     "victim_name": "[CA] AleekseeV",
                     "distance": "450m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:49:11",
                     "victim_name": "[520th] Новокаин",
                     "distance": "297m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -934,7 +1078,9 @@
                 "time": "0:49:33",
                 "victim_name": "[520th] Эфедрин",
                 "distance": "484m",
-                "weapon": "M4A1"
+                "weapon": "M4A1",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -951,7 +1097,9 @@
                 "time": "0:50:18",
                 "victim_name": "[520th] Эфедрин",
                 "distance": "398m",
-                "weapon": "M4A1"
+                "weapon": "M4A1",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -968,14 +1116,18 @@
                     "time": "0:32:38",
                     "victim_name": "[CA] Bogdan Spivak",
                     "distance": "364m",
-                    "weapon": "АК-74Н слива (ГП-25)"
+                    "weapon": "АК-74Н слива (ГП-25)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:43:50",
                     "victim_name": "Dw. Dudley",
                     "distance": "37m",
-                    "weapon": "АК-74Н слива (ГП-25)"
+                    "weapon": "АК-74Н слива (ГП-25)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -983,7 +1135,9 @@
                 "time": "0:46:15",
                 "victim_name": "[520th] Эфедрин",
                 "distance": "493m",
-                "weapon": "M4A1"
+                "weapon": "M4A1",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1000,7 +1154,9 @@
                     "time": "0:08:42",
                     "victim_name": "Steerable Parachute",
                     "distance": "1m",
-                    "weapon": ""
+                    "weapon": "",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1008,7 +1164,9 @@
                 "time": "0:20:38",
                 "victim_name": "[TERA] KSander",
                 "distance": "1582m",
-                "weapon": "АКС-74У"
+                "weapon": "АКС-74У",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1025,7 +1183,9 @@
                     "time": "0:34:32",
                     "victim_name": "[LG] Pank",
                     "distance": "28m",
-                    "weapon": "АК-74Н слива (ГП-25)"
+                    "weapon": "АК-74Н слива (ГП-25)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1033,7 +1193,9 @@
                 "time": "0:37:09",
                 "victim_name": "[LG] мотуган",
                 "distance": "3m",
-                "weapon": "M16A4 (TD Grip)"
+                "weapon": "M16A4 (TD Grip)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1050,7 +1212,9 @@
                 "time": "0:33:48",
                 "victim_name": "Dw. Dudley",
                 "distance": "16m",
-                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1067,7 +1231,9 @@
                 "time": "0:47:25",
                 "victim_name": "*ARMA*",
                 "distance": "-1m",
-                "weapon": "no weapon"
+                "weapon": "no weapon",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1084,7 +1250,9 @@
                 "time": "0:18:20",
                 "victim_name": "[TERA] teran",
                 "distance": "199m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1101,7 +1269,9 @@
                 "time": "0:11:29",
                 "victim_name": "[RMC] Kypatop",
                 "distance": "47m",
-                "weapon": "ПКП"
+                "weapon": "ПКП",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1118,7 +1288,9 @@
                 "time": "0:48:26",
                 "victim_name": "[RDO] Nael",
                 "distance": "43m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1135,7 +1307,9 @@
                     "time": "0:25:59",
                     "victim_name": "[VRG] Matvein",
                     "distance": "31m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1143,7 +1317,9 @@
                 "time": "0:42:50",
                 "victim_name": "[SYND] Arssik7",
                 "distance": "385m",
-                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1160,7 +1336,9 @@
                 "time": "0:24:37",
                 "victim_name": "[VRG] Olemak",
                 "distance": "14m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1177,7 +1355,9 @@
                 "time": "0:15:20",
                 "victim_name": "[VRG] Matvein",
                 "distance": "98m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1194,14 +1374,18 @@
                     "time": "0:37:42",
                     "victim_name": "[RE]Gakcter5",
                     "distance": "3m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:53:54",
                     "victim_name": "Vassiliok",
                     "distance": "7m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": null
@@ -1220,7 +1404,9 @@
                     "time": "0:03:12",
                     "victim_name": "Haikal Aybak",
                     "distance": "5m",
-                    "weapon": ""
+                    "weapon": "",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1228,7 +1414,9 @@
                 "time": "0:25:29",
                 "victim_name": "[LG]heizy",
                 "distance": "410m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1245,7 +1433,9 @@
                 "time": "0:36:57",
                 "victim_name": "[NT]Blackburn",
                 "distance": "618m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1262,7 +1452,9 @@
                 "time": "0:27:48",
                 "victim_name": "[CBR]Cherchi",
                 "distance": "342m",
-                "weapon": "M14 EBR-RI"
+                "weapon": "M14 EBR-RI",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1279,7 +1471,9 @@
                 "time": "0:32:03",
                 "victim_name": "[520th] Эфедрин",
                 "distance": "492m",
-                "weapon": "M4A1"
+                "weapon": "M4A1",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1296,14 +1490,18 @@
                     "time": "0:39:50",
                     "victim_name": "[520th] Alik",
                     "distance": "2m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:41:03",
                     "victim_name": "[520th] Gast",
                     "distance": "155m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1311,7 +1509,9 @@
                 "time": "0:41:57",
                 "victim_name": "[520th] Лидокаин",
                 "distance": "168m",
-                "weapon": "M249 PIP Long (RIS)"
+                "weapon": "M249 PIP Long (RIS)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1328,7 +1528,9 @@
                     "time": "0:08:39",
                     "victim_name": "Steerable Parachute",
                     "distance": "0m",
-                    "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]"
+                    "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1336,7 +1538,9 @@
                 "time": "0:08:39",
                 "victim_name": "[URAL] SARS",
                 "distance": "0m",
-                "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]"
+                "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1353,7 +1557,9 @@
                 "time": "0:24:25",
                 "victim_name": "[Гивай] DuckSide",
                 "distance": "78m",
-                "weapon": "[CUP] Mk16 SCAR-L CQC (EGLM) [Woodland]"
+                "weapon": "[CUP] Mk16 SCAR-L CQC (EGLM) [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1370,7 +1576,9 @@
                 "time": "0:15:34",
                 "victim_name": "[LG] мотуган",
                 "distance": "373m",
-                "weapon": "M16A4 (TD Grip)"
+                "weapon": "M16A4 (TD Grip)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1387,7 +1595,9 @@
                 "time": "0:27:30",
                 "victim_name": "[Гивай]Snow Murakami",
                 "distance": "507m",
-                "weapon": "SR-25 Carbine [Woodland]"
+                "weapon": "SR-25 Carbine [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1404,7 +1614,9 @@
                 "time": "0:24:57",
                 "victim_name": "k1llsw1tch!",
                 "distance": "0m",
-                "weapon": "ПМ"
+                "weapon": "ПМ",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1421,7 +1633,9 @@
                 "time": "0:03:12",
                 "victim_name": "[RMC] Uktus",
                 "distance": "5m",
-                "weapon": ""
+                "weapon": "",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1438,7 +1652,9 @@
                 "time": "0:25:06",
                 "victim_name": "[AGG] Fox in Panzer",
                 "distance": "708m",
-                "weapon": "АК-74Н слива (ГП-25)"
+                "weapon": "АК-74Н слива (ГП-25)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1455,7 +1671,9 @@
                 "time": "0:39:50",
                 "victim_name": "[UN] havaec",
                 "distance": "2m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1472,7 +1690,9 @@
                 "time": "0:41:03",
                 "victim_name": "[UN] havaec",
                 "distance": "155m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1489,7 +1709,9 @@
                 "time": "0:24:49",
                 "victim_name": "[RMC] Marshall",
                 "distance": "127m",
-                "weapon": "АКС-74У"
+                "weapon": "АКС-74У",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1506,49 +1728,63 @@
                     "time": "0:23:29",
                     "victim_name": "[UN]Ezer",
                     "distance": "236m",
-                    "weapon": "M14 EBR-RI"
+                    "weapon": "M14 EBR-RI",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:26:48",
                     "victim_name": "[UN]DED",
                     "distance": "214m",
-                    "weapon": "M14 EBR-RI"
+                    "weapon": "M14 EBR-RI",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:27:48",
                     "victim_name": "[UN] MACTEP",
                     "distance": "342m",
-                    "weapon": "M14 EBR-RI"
+                    "weapon": "M14 EBR-RI",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:29:18",
                     "victim_name": "[UN]Apple",
                     "distance": "337m",
-                    "weapon": "M14 EBR-RI"
+                    "weapon": "M14 EBR-RI",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:32:18",
                     "victim_name": "[UN]Farid",
                     "distance": "884m",
-                    "weapon": "M14 EBR-RI"
+                    "weapon": "M14 EBR-RI",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:45:18",
                     "victim_name": "[NT] Gookowski",
                     "distance": "394m",
-                    "weapon": "M14 EBR-RI"
+                    "weapon": "M14 EBR-RI",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:46:27",
                     "victim_name": "[TERA] Pepel",
                     "distance": "394m",
-                    "weapon": "M14 EBR-RI"
+                    "weapon": "M14 EBR-RI",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": null
@@ -1567,7 +1803,9 @@
                 "time": "0:20:19",
                 "victim_name": "[VRG] Olemak",
                 "distance": "218m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1584,7 +1822,9 @@
                     "time": "0:21:38",
                     "victim_name": "[VRG] llBa1kerll",
                     "distance": "31m",
-                    "weapon": "M4A1"
+                    "weapon": "M4A1",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1592,7 +1832,9 @@
                 "time": "0:22:10",
                 "victim_name": "[VRG] Matvein",
                 "distance": "98m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1609,7 +1851,9 @@
                 "time": "0:37:42",
                 "victim_name": "[NT] Marnet",
                 "distance": "3m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1626,7 +1870,9 @@
                 "time": "0:28:36",
                 "victim_name": "[TERA] Мелочь",
                 "distance": "93m",
-                "weapon": "ПКП"
+                "weapon": "ПКП",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1643,7 +1889,9 @@
                     "time": "0:40:56",
                     "victim_name": "Chaplya",
                     "distance": "131m",
-                    "weapon": "АКС-74У"
+                    "weapon": "АКС-74У",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1651,7 +1899,9 @@
                 "time": "0:42:15",
                 "victim_name": "[СМЕРШ] lazcore",
                 "distance": "244m",
-                "weapon": "M4A1"
+                "weapon": "M4A1",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1668,14 +1918,18 @@
                     "time": "0:29:07",
                     "victim_name": "[STELS]Pushkar",
                     "distance": "103m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:32:43",
                     "victim_name": "[СМЕРШ]SomM",
                     "distance": "15m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1683,7 +1937,9 @@
                 "time": "0:43:04",
                 "victim_name": "[LG]heizy",
                 "distance": "472m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1700,7 +1956,9 @@
                     "time": "0:43:18",
                     "victim_name": "Dw. MOLOKO",
                     "distance": "341m",
-                    "weapon": "ПМ"
+                    "weapon": "ПМ",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1708,7 +1966,9 @@
                 "time": "0:46:27",
                 "victim_name": "[CBR]Cherchi",
                 "distance": "394m",
-                "weapon": "M14 EBR-RI"
+                "weapon": "M14 EBR-RI",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1725,7 +1985,9 @@
                     "time": "0:18:20",
                     "victim_name": "[13th] Oleg",
                     "distance": "199m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1733,7 +1995,9 @@
                 "time": "0:25:29",
                 "victim_name": "[FSK] Ерсын",
                 "distance": "33m",
-                "weapon": "M16A4 (TD Grip)"
+                "weapon": "M16A4 (TD Grip)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1750,7 +2014,9 @@
                 "time": "0:14:49",
                 "victim_name": "[LG]heizy",
                 "distance": "2704m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1767,7 +2033,9 @@
                 "time": "0:23:21",
                 "victim_name": "[СМЕРШ]Coffee",
                 "distance": "1884m",
-                "weapon": "M249 PIP Long (RIS)"
+                "weapon": "M249 PIP Long (RIS)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1784,28 +2052,36 @@
                     "time": "0:20:19",
                     "victim_name": "[LG] Fused88",
                     "distance": "218m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:24:37",
                     "victim_name": "[7th]karas'",
                     "distance": "14m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:27:48",
                     "victim_name": "[СМЕРШ] Renne",
                     "distance": "242m",
-                    "weapon": "M14 EBR-RI"
+                    "weapon": "M14 EBR-RI",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:29:22",
                     "victim_name": "[СМЕРШ]Coffee",
                     "distance": "254m",
-                    "weapon": "ПМ"
+                    "weapon": "ПМ",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1813,7 +2089,9 @@
                 "time": "0:29:21",
                 "victim_name": "[СМЕРШ]Coffee",
                 "distance": "254m",
-                "weapon": "M249 PIP Long (RIS)"
+                "weapon": "M249 PIP Long (RIS)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1830,7 +2108,9 @@
                 "time": "0:26:14",
                 "victim_name": "[RMC] Teng",
                 "distance": "124m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1847,7 +2127,9 @@
                     "time": "0:37:25",
                     "victim_name": "[RDO] Чича",
                     "distance": "188m",
-                    "weapon": "M136 HEDP (used)"
+                    "weapon": "M136 HEDP (used)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1855,7 +2137,9 @@
                 "time": "0:40:19",
                 "victim_name": "[NT] Gookowski",
                 "distance": "137m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1872,35 +2156,45 @@
                     "time": "0:27:18",
                     "victim_name": "[СМЕРШ]Demur",
                     "distance": "595m",
-                    "weapon": "Zrak RD-7J"
+                    "weapon": "Zrak RD-7J",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:36:30",
                     "victim_name": "[СМЕРШ]Inspector",
                     "distance": "510m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:36:57",
                     "victim_name": "[StB]Zanoza",
                     "distance": "618m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:47:08",
                     "victim_name": "[LG]Shamil",
                     "distance": "20m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:47:16",
                     "victim_name": "[LG]k0t",
                     "distance": "19m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1908,7 +2202,9 @@
                 "time": "0:47:25",
                 "victim_name": "[LG]heizy",
                 "distance": "24m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1925,35 +2221,45 @@
                     "time": "0:11:29",
                     "victim_name": "[13th]Voker",
                     "distance": "47m",
-                    "weapon": "ПКП"
+                    "weapon": "ПКП",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:25:22",
                     "victim_name": "[13th] Doloman",
                     "distance": "116m",
-                    "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]"
+                    "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:27:50",
                     "victim_name": "Dw. ASYS",
                     "distance": "104m",
-                    "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]"
+                    "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:28:12",
                     "victim_name": "Dw. Zloy_aka_JIbI4",
                     "distance": "48m",
-                    "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]"
+                    "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:31:23",
                     "victim_name": "[JW] BAN",
                     "distance": "162m",
-                    "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]"
+                    "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -1961,7 +2267,9 @@
                 "time": "0:32:00",
                 "victim_name": "Dw. Dudley",
                 "distance": "128m",
-                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1978,7 +2286,9 @@
                 "time": "0:35:17",
                 "victim_name": "[RDO] Nael",
                 "distance": "581m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -1995,7 +2305,9 @@
                     "time": "0:42:52",
                     "victim_name": "[LG] мотуган",
                     "distance": "192m",
-                    "weapon": "ПКП"
+                    "weapon": "ПКП",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": null
@@ -2014,7 +2326,9 @@
                 "time": "0:29:39",
                 "victim_name": "[СМЕРШ]SomM",
                 "distance": "146m",
-                "weapon": "M14 EBR-RI"
+                "weapon": "M14 EBR-RI",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2031,21 +2345,27 @@
                     "time": "0:15:20",
                     "victim_name": "[KSK]Sparis",
                     "distance": "98m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:22:10",
                     "victim_name": "[LG] artyrka",
                     "distance": "98m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:23:52",
                     "victim_name": "[7th]ŽUBR",
                     "distance": "29m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2053,7 +2373,9 @@
                 "time": "0:25:59",
                 "victim_name": "[7th]Prapar",
                 "distance": "31m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2070,7 +2392,9 @@
                 "time": "0:33:46",
                 "victim_name": "Dw. Dudley",
                 "distance": "17m",
-                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2087,7 +2411,9 @@
                     "time": "0:24:57",
                     "victim_name": "[UN]Arey",
                     "distance": "1131m",
-                    "weapon": "M4A1"
+                    "weapon": "M4A1",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2095,7 +2421,9 @@
                 "time": "0:25:22",
                 "victim_name": "[RMC] Kypatop",
                 "distance": "116m",
-                "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]"
+                "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2112,7 +2440,9 @@
                 "time": "0:28:35",
                 "victim_name": "[LG] мотуган",
                 "distance": "1206m",
-                "weapon": "M16A4 (TD Grip)"
+                "weapon": "M16A4 (TD Grip)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2129,7 +2459,9 @@
                 "time": "0:38:15",
                 "victim_name": "[SNZ]Arkus",
                 "distance": "450m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2146,21 +2478,27 @@
                     "time": "0:38:28",
                     "victim_name": "[CA] Efr.",
                     "distance": "172m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:40:19",
                     "victim_name": "[CBR]Anticlop",
                     "distance": "137m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:40:47",
                     "victim_name": "[CBR]Spek",
                     "distance": "211m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2168,7 +2506,9 @@
                 "time": "0:45:18",
                 "victim_name": "[CBR]Cherchi",
                 "distance": "394m",
-                "weapon": "M14 EBR-RI"
+                "weapon": "M14 EBR-RI",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2185,21 +2525,27 @@
                     "time": "0:34:16",
                     "victim_name": "[CBR]Puzo",
                     "distance": "2m",
-                    "weapon": "АК-74Н слива (ГП-25)"
+                    "weapon": "АК-74Н слива (ГП-25)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:46:42",
                     "victim_name": "[520th] Лидокаин",
                     "distance": "219m",
-                    "weapon": "АК-74Н слива (ГП-25)"
+                    "weapon": "АК-74Н слива (ГП-25)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:48:13",
                     "victim_name": "[520th] Valedol",
                     "distance": "324m",
-                    "weapon": "АК-74Н слива (ГП-25)"
+                    "weapon": "АК-74Н слива (ГП-25)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": null
@@ -2218,7 +2564,9 @@
                 "time": "0:37:25",
                 "victim_name": "[CBR]Anticlop",
                 "distance": "188m",
-                "weapon": "M136 HEDP (used)"
+                "weapon": "M136 HEDP (used)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2235,35 +2583,45 @@
                     "time": "0:08:46",
                     "victim_name": "[URAL] Mosinka_Stalina",
                     "distance": "167m",
-                    "weapon": ""
+                    "weapon": "",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:14:41",
                     "victim_name": "[13th] WoWrostov",
                     "distance": "637m",
-                    "weapon": "АКС-74У"
+                    "weapon": "АКС-74У",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:24:49",
                     "victim_name": "LAV-25A1",
                     "distance": "127m",
-                    "weapon": "АКС-74У"
+                    "weapon": "АКС-74У",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:24:49",
                     "victim_name": "[CA] Whopper",
                     "distance": "127m",
-                    "weapon": "АКС-74У"
+                    "weapon": "АКС-74У",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:24:49",
                     "victim_name": "[CA] Cake_is_lie",
                     "distance": "129m",
-                    "weapon": "АКС-74У"
+                    "weapon": "АКС-74У",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2271,7 +2629,9 @@
                 "time": "0:30:03",
                 "victim_name": "[LG]heizy",
                 "distance": "380m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2288,7 +2648,9 @@
                 "time": "0:29:07",
                 "victim_name": "[TERA] Nekip",
                 "distance": "103m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2305,14 +2667,18 @@
                     "time": "0:42:50",
                     "victim_name": "[7th]Prapar",
                     "distance": "385m",
-                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:45:00",
                     "victim_name": "[7th]Kuler",
                     "distance": "328m",
-                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                    "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": null
@@ -2331,7 +2697,9 @@
                     "time": "0:20:38",
                     "victim_name": "[URAL]Dram",
                     "distance": "1582m",
-                    "weapon": "АКС-74У"
+                    "weapon": "АКС-74У",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2339,7 +2707,9 @@
                 "time": "0:26:39",
                 "victim_name": "Dw. Bear_Baby_Bear",
                 "distance": "133m",
-                "weapon": "M136 HEDP (used)"
+                "weapon": "M136 HEDP (used)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2356,21 +2726,27 @@
                     "time": "0:21:13",
                     "victim_name": "[13th] Evgenrus",
                     "distance": "313m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:34:52",
                     "victim_name": "[FSK] Ерсын",
                     "distance": "7m",
-                    "weapon": "СВДС"
+                    "weapon": "СВДС",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:40:45",
                     "victim_name": "[RE]Madori",
                     "distance": "96m",
-                    "weapon": "ПМ"
+                    "weapon": "ПМ",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2378,7 +2754,9 @@
                 "time": "0:39:15",
                 "victim_name": "[LG]heizy",
                 "distance": "457m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2395,14 +2773,18 @@
                     "time": "0:25:19",
                     "victim_name": "[StB]rezakpower",
                     "distance": "8m",
-                    "weapon": "АКС-74Н слива"
+                    "weapon": "АКС-74Н слива",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:44:45",
                     "victim_name": "[СМЕРШ] lazcore",
                     "distance": "119m",
-                    "weapon": "M249 PIP Long (RIS)"
+                    "weapon": "M249 PIP Long (RIS)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2410,7 +2792,9 @@
                 "time": "0:44:53",
                 "victim_name": "[LG]heizy",
                 "distance": "955m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2427,7 +2811,9 @@
                 "time": "0:02:51",
                 "victim_name": "[RDO] А ГейСер",
                 "distance": "2m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2444,7 +2830,9 @@
                 "time": "0:24:57",
                 "victim_name": "Bashir Ratebzad",
                 "distance": "0m",
-                "weapon": "АКС-74Н слива"
+                "weapon": "АКС-74Н слива",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2461,7 +2849,9 @@
                 "time": "0:21:13",
                 "victim_name": "[TERA] Winston",
                 "distance": "313m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2478,7 +2868,9 @@
                 "time": "0:26:28",
                 "victim_name": "[NT] ykcul",
                 "distance": "286m",
-                "weapon": "ПМ"
+                "weapon": "ПМ",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2495,7 +2887,9 @@
                 "time": "0:48:13",
                 "victim_name": "[NT] SexFlexer",
                 "distance": "324m",
-                "weapon": "АК-74Н слива (ГП-25)"
+                "weapon": "АК-74Н слива (ГП-25)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2512,14 +2906,18 @@
                     "time": "0:24:54",
                     "victim_name": "zlodei",
                     "distance": "508m",
-                    "weapon": "M14 EBR-RI"
+                    "weapon": "M14 EBR-RI",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:40:15",
                     "victim_name": "[РДО] VavvVay :З",
                     "distance": "81m",
-                    "weapon": "M14 EBR-RI"
+                    "weapon": "M14 EBR-RI",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2527,7 +2925,9 @@
                 "time": "0:43:28",
                 "victim_name": "[RDO] Nael",
                 "distance": "250m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2544,7 +2944,9 @@
                 "time": "0:25:19",
                 "victim_name": "[VRG] Kovalski",
                 "distance": "8m",
-                "weapon": "АКС-74Н слива"
+                "weapon": "АКС-74Н слива",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2561,7 +2963,9 @@
                 "time": "0:28:57",
                 "victim_name": "Dw. Bear_Baby_Bear",
                 "distance": "99m",
-                "weapon": "M4A1"
+                "weapon": "M4A1",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2578,7 +2982,9 @@
                     "time": "0:24:51",
                     "victim_name": "Sativa",
                     "distance": "594m",
-                    "weapon": "no weapon"
+                    "weapon": "no weapon",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2586,7 +2992,9 @@
                 "time": "0:34:36",
                 "victim_name": "Dw. Dudley",
                 "distance": "1162m",
-                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2603,7 +3011,9 @@
                 "time": "0:14:41",
                 "victim_name": "[RMC] Marshall",
                 "distance": "637m",
-                "weapon": "АКС-74У"
+                "weapon": "АКС-74У",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2620,7 +3030,9 @@
                 "time": "0:24:49",
                 "victim_name": "[RMC] Marshall",
                 "distance": "129m",
-                "weapon": "АКС-74У"
+                "weapon": "АКС-74У",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2637,7 +3049,9 @@
                     "time": "0:25:29",
                     "victim_name": "[TERA] teran",
                     "distance": "33m",
-                    "weapon": "M16A4 (TD Grip)"
+                    "weapon": "M16A4 (TD Grip)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2645,7 +3059,9 @@
                 "time": "0:34:52",
                 "victim_name": "[TERA] Winston",
                 "distance": "7m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2662,7 +3078,9 @@
                 "time": "0:21:38",
                 "victim_name": "[LG] artyrka",
                 "distance": "31m",
-                "weapon": "M4A1"
+                "weapon": "M4A1",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2679,14 +3097,18 @@
                     "time": "0:22:11",
                     "victim_name": "Kirill",
                     "distance": "966m",
-                    "weapon": "M14 EBR-RI"
+                    "weapon": "M14 EBR-RI",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:29:39",
                     "victim_name": "[TERA] ulitka",
                     "distance": "146m",
-                    "weapon": "M14 EBR-RI"
+                    "weapon": "M14 EBR-RI",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2694,7 +3116,9 @@
                 "time": "0:32:43",
                 "victim_name": "[TERA] Nekip",
                 "distance": "15m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2711,7 +3135,9 @@
                 "time": "0:53:52",
                 "victim_name": "[520th] Эфедрин",
                 "distance": "287m",
-                "weapon": "M4A1"
+                "weapon": "M4A1",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2728,7 +3154,9 @@
                 "time": "0:27:18",
                 "victim_name": "[NT]Blackburn",
                 "distance": "595m",
-                "weapon": "Zrak RD-7J"
+                "weapon": "Zrak RD-7J",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2745,7 +3173,9 @@
                 "time": "0:37:09",
                 "victim_name": "[RDO] Nael",
                 "distance": "10m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2762,21 +3192,27 @@
                     "time": "0:26:39",
                     "victim_name": "[TERA] KSander",
                     "distance": "133m",
-                    "weapon": "M136 HEDP (used)"
+                    "weapon": "M136 HEDP (used)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:26:51",
                     "victim_name": "BTR-80A",
                     "distance": "118m",
-                    "weapon": "M4A1"
+                    "weapon": "M4A1",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:28:57",
                     "victim_name": "[TERA] Altesair",
                     "distance": "99m",
-                    "weapon": "M4A1"
+                    "weapon": "M4A1",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2784,7 +3220,9 @@
                 "time": "0:34:58",
                 "victim_name": "[TERA] Матрёшка",
                 "distance": "61m",
-                "weapon": "АК-74М"
+                "weapon": "АК-74М",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2801,7 +3239,9 @@
                 "time": "0:28:12",
                 "victim_name": "[RMC] Kypatop",
                 "distance": "48m",
-                "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]"
+                "weapon": "[CUP] Mk16 SCAR-L STD (EGLM) [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2818,7 +3258,9 @@
                 "time": "0:32:38",
                 "victim_name": "[TERA]Zloy",
                 "distance": "364m",
-                "weapon": "АК-74Н слива (ГП-25)"
+                "weapon": "АК-74Н слива (ГП-25)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2835,7 +3277,9 @@
                 "time": "0:27:48",
                 "victim_name": "[VRG] Olemak",
                 "distance": "242m",
-                "weapon": "M14 EBR-RI"
+                "weapon": "M14 EBR-RI",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2852,14 +3296,18 @@
                     "time": "0:23:21",
                     "victim_name": "[URAL] Alexs",
                     "distance": "1884m",
-                    "weapon": "M249 PIP Long (RIS)"
+                    "weapon": "M249 PIP Long (RIS)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:29:21",
                     "victim_name": "[VRG] Olemak",
                     "distance": "254m",
-                    "weapon": "M249 PIP Long (RIS)"
+                    "weapon": "M249 PIP Long (RIS)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2867,7 +3315,9 @@
                 "time": "0:29:22",
                 "victim_name": "[VRG] Olemak",
                 "distance": "254m",
-                "weapon": "ПМ"
+                "weapon": "ПМ",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2884,7 +3334,9 @@
                 "time": "0:09:04",
                 "victim_name": "Steerable Parachute",
                 "distance": "0m",
-                "weapon": "no weapon"
+                "weapon": "no weapon",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2901,7 +3353,9 @@
                     "time": "0:25:06",
                     "victim_name": "[13th] Hakka",
                     "distance": "708m",
-                    "weapon": "АК-74Н слива (ГП-25)"
+                    "weapon": "АК-74Н слива (ГП-25)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2909,7 +3363,9 @@
                 "time": "0:43:30",
                 "victim_name": "[LG]heizy",
                 "distance": "86m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2926,7 +3382,9 @@
                 "time": "0:34:25",
                 "victim_name": "Dw. Dudley",
                 "distance": "1176m",
-                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]"
+                "weapon": "[CUP] Mk16 SCAR-L STD (Рукоятка) [Woodland]",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2943,28 +3401,36 @@
                     "time": "0:15:34",
                     "victim_name": "[VRG] Tolik",
                     "distance": "373m",
-                    "weapon": "M16A4 (TD Grip)"
+                    "weapon": "M16A4 (TD Grip)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:28:35",
                     "victim_name": "[AGG] Sum_Pack",
                     "distance": "1206m",
-                    "weapon": "M16A4 (TD Grip)"
+                    "weapon": "M16A4 (TD Grip)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:28:37",
                     "victim_name": "[RDO] А ГейСер",
                     "distance": "1190m",
-                    "weapon": "M16A4 (TD Grip)"
+                    "weapon": "M16A4 (TD Grip)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:37:09",
                     "victim_name": "[VRG] Dank",
                     "distance": "3m",
-                    "weapon": "M16A4 (TD Grip)"
+                    "weapon": "M16A4 (TD Grip)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -2972,7 +3438,9 @@
                 "time": "0:42:52",
                 "victim_name": "[SYND] DAntey",
                 "distance": "192m",
-                "weapon": "ПКП"
+                "weapon": "ПКП",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -2989,7 +3457,9 @@
                 "time": "0:39:58",
                 "victim_name": "[LG]heizy",
                 "distance": "443m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -3006,7 +3476,9 @@
                     "time": "0:28:36",
                     "victim_name": "[STELS]Jason",
                     "distance": "93m",
-                    "weapon": "ПКП"
+                    "weapon": "ПКП",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -3014,7 +3486,9 @@
                 "time": "0:48:50",
                 "victim_name": "[СМЕРШ] Змагар",
                 "distance": "293m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -3031,7 +3505,9 @@
                 "time": "0:40:03",
                 "victim_name": "[LG]heizy",
                 "distance": "452m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -3048,7 +3524,9 @@
                 "time": "0:40:15",
                 "victim_name": "[STELS]Petrucho",
                 "distance": "81m",
-                "weapon": "M14 EBR-RI"
+                "weapon": "M14 EBR-RI",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -3065,7 +3543,9 @@
                     "time": "0:42:15",
                     "victim_name": "[TERA] Iskra",
                     "distance": "244m",
-                    "weapon": "M4A1"
+                    "weapon": "M4A1",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -3073,7 +3553,9 @@
                 "time": "0:44:45",
                 "victim_name": "[VRG] Kovalski",
                 "distance": "119m",
-                "weapon": "M249 PIP Long (RIS)"
+                "weapon": "M249 PIP Long (RIS)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -3090,7 +3572,9 @@
                     "time": "0:02:51",
                     "victim_name": "Basharat Khoram",
                     "distance": "2m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -3098,7 +3582,9 @@
                 "time": "0:28:37",
                 "victim_name": "[LG] мотуган",
                 "distance": "1190m",
-                "weapon": "M16A4 (TD Grip)"
+                "weapon": "M16A4 (TD Grip)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -3115,7 +3601,9 @@
                     "time": "0:24:25",
                     "victim_name": "[VRG] Jesus",
                     "distance": "78m",
-                    "weapon": "[CUP] Mk16 SCAR-L CQC (EGLM) [Woodland]"
+                    "weapon": "[CUP] Mk16 SCAR-L CQC (EGLM) [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": null
@@ -3134,7 +3622,9 @@
                 "time": "0:36:30",
                 "victim_name": "[NT]Blackburn",
                 "distance": "510m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -3151,42 +3641,54 @@
                     "time": "0:32:03",
                     "victim_name": "[UN] Musket",
                     "distance": "492m",
-                    "weapon": "M4A1"
+                    "weapon": "M4A1",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:39:21",
                     "victim_name": "[SNZ]SOVA",
                     "distance": "475m",
-                    "weapon": "M4A1"
+                    "weapon": "M4A1",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:46:15",
                     "victim_name": "[TERA]Zloy",
                     "distance": "493m",
-                    "weapon": "M4A1"
+                    "weapon": "M4A1",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:49:33",
                     "victim_name": "[SNZ]Arkus",
                     "distance": "484m",
-                    "weapon": "M4A1"
+                    "weapon": "M4A1",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:50:18",
                     "victim_name": "[TERA] Nia",
                     "distance": "398m",
-                    "weapon": "M4A1"
+                    "weapon": "M4A1",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 },
                 {
                     "kill_type": "",
                     "time": "0:53:52",
                     "victim_name": "[SYND] Масло",
                     "distance": "287m",
-                    "weapon": "M4A1"
+                    "weapon": "M4A1",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": null
@@ -3205,7 +3707,9 @@
                     "time": "0:08:50",
                     "victim_name": "Steerable Parachute",
                     "distance": "0m",
-                    "weapon": ""
+                    "weapon": "",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -3213,7 +3717,9 @@
                 "time": "0:08:46",
                 "victim_name": "[RMC] Marshall",
                 "distance": "167m",
-                "weapon": ""
+                "weapon": "",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -3230,7 +3736,9 @@
                     "time": "0:34:58",
                     "victim_name": "Dw. Bear_Baby_Bear",
                     "distance": "61m",
-                    "weapon": "АК-74М"
+                    "weapon": "АК-74М",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -3238,7 +3746,9 @@
                 "time": "0:42:32",
                 "victim_name": "[LG]heizy",
                 "distance": "318m",
-                "weapon": "M4A1 (M203S)"
+                "weapon": "M4A1 (M203S)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -3255,7 +3765,9 @@
                     "time": "0:41:57",
                     "victim_name": "[UN] havaec",
                     "distance": "168m",
-                    "weapon": "M249 PIP Long (RIS)"
+                    "weapon": "M249 PIP Long (RIS)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": {
@@ -3263,7 +3775,9 @@
                 "time": "0:46:42",
                 "victim_name": "[NT] SexFlexer",
                 "distance": "219m",
-                "weapon": "АК-74Н слива (ГП-25)"
+                "weapon": "АК-74Н слива (ГП-25)",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -3280,7 +3794,9 @@
                 "time": "0:49:11",
                 "victim_name": "[SNZ]Arkus",
                 "distance": "297m",
-                "weapon": "СВДС"
+                "weapon": "СВДС",
+                "mission_id": "5654",
+                "mission_date": "2025-08-08"
             }
         },
         {
@@ -3297,7 +3813,9 @@
                     "time": "0:27:30",
                     "victim_name": "[VRG] Yanik",
                     "distance": "507m",
-                    "weapon": "SR-25 Carbine [Woodland]"
+                    "weapon": "SR-25 Carbine [Woodland]",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": null
@@ -3316,7 +3834,9 @@
                     "time": "0:48:50",
                     "victim_name": "[TERA] Мелочь",
                     "distance": "293m",
-                    "weapon": "M4A1 (M203S)"
+                    "weapon": "M4A1 (M203S)",
+                    "mission_id": "5654",
+                    "mission_date": "2025-08-08"
                 }
             ],
             "death": null
@@ -3335,10 +3855,16 @@
             "deaths": 10,
             "side": "EAST"
         },
-        "DW": {
+        "Dw": {
             "frags": 4,
             "teamkills": 0,
             "deaths": 5,
+            "side": "WEST"
+        },
+        "7th": {
+            "frags": 1,
+            "teamkills": 0,
+            "deaths": 6,
             "side": "WEST"
         },
         "SNZ": {
@@ -3389,10 +3915,28 @@
             "deaths": 8,
             "side": "EAST"
         },
+        "13th": {
+            "frags": 1,
+            "teamkills": 0,
+            "deaths": 8,
+            "side": "WEST"
+        },
         "KSK": {
             "frags": 0,
             "teamkills": 0,
             "deaths": 1,
+            "side": "WEST"
+        },
+        "StB": {
+            "frags": 0,
+            "teamkills": 0,
+            "deaths": 2,
+            "side": "WEST"
+        },
+        "520th": {
+            "frags": 7,
+            "teamkills": 0,
+            "deaths": 5,
             "side": "WEST"
         },
         "STELS": {
@@ -3403,6 +3947,12 @@
         },
         "SYND": {
             "frags": 3,
+            "teamkills": 0,
+            "deaths": 3,
+            "side": "EAST"
+        },
+        "AGG": {
+            "frags": 1,
             "teamkills": 0,
             "deaths": 3,
             "side": "EAST"

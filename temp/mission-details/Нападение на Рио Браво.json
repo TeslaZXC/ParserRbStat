@@ -1,0 +1,2910 @@
+{
+    "id": "5657",
+    "mission_name": "Нападение на Рио Браво",
+    "ocap_link": "https://ocap.red-bear.ru/?file=2025_08_09__18_03_NapadenienaRioBravo.json&frame=0&zoom=1.9&x=-127&y=128",
+    "stats_url": "http://stats.red-bear.ru/?filename=2025_08_09__18_03_NapadenienaRioBravo.json",
+    "players": "115",
+    "frags": "72 (45/27)",
+    "tk": "6",
+    "map": "tem_kujari",
+    "duration": "0:35:59",
+    "date": "2025-08-09",
+    "tag_check": "tvt",
+    "players_stats": [
+        {
+            "player_name": "Egor",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:17:20",
+                "victim_name": "[URAL] Mosinka_Stalina",
+                "distance": "178m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "vaska",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:19:57",
+                "victim_name": "[7th]Amogus",
+                "distance": "43m",
+                "weapon": "[HLC] SG 550 Sniper (RIS)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "*ARMA*",
+            "frags": 1,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:23:29",
+                    "victim_name": "[7th]Gnev",
+                    "distance": "-1m",
+                    "weapon": "no weapon",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "Kirill",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 2-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:19:09",
+                "victim_name": "[UN]Исак",
+                "distance": "158m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "KosTik",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:54",
+                "victim_name": "[RL]Makaka",
+                "distance": "3m",
+                "weapon": "АК-74МР (ГП-25)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "Sativa",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 3-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:20:37",
+                "victim_name": "Sativa",
+                "distance": "0m",
+                "weapon": "Glock 17",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "Stanis",
+            "frags": 1,
+            "side": "EAST",
+            "group": "Alpha 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:07:50",
+                    "victim_name": "[Delta] Delovoy",
+                    "distance": "133m",
+                    "weapon": "АК-74М пустынный (Б-13)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:17:16",
+                "victim_name": "[СМЕРШ]Zaba4",
+                "distance": "153m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "Zhendos",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Alpha 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:26:18",
+                    "victim_name": "[NT] Yofox_",
+                    "distance": "206m",
+                    "weapon": "Mk 11 Mod 0",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[LG]DON",
+            "frags": 2,
+            "side": "WEST",
+            "group": "Alpha 2-1",
+            "teamkills": 1,
+            "vehicle_kills": 0,
+            "ai_kills": 1,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:21:45",
+                    "victim_name": "[DT]TrekeR",
+                    "distance": "2078m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:25:04",
+                    "victim_name": "Qasim Sangeen",
+                    "distance": "65m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "TK",
+                    "time": "0:26:50",
+                    "victim_name": "[URAL] Mosinka_Stalina",
+                    "distance": "12m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:28:23",
+                    "victim_name": "[FSK] Ерсын",
+                    "distance": "5m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:29:12",
+                "victim_name": "[RMC] Kypatop",
+                "distance": "122m",
+                "weapon": "[HLC] G36KC (KAC)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[LG]k0t",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Alpha 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:23:19",
+                    "victim_name": "[TERA] Iskra",
+                    "distance": "124m",
+                    "weapon": "HK416 D14.5 (M320)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:38",
+                "victim_name": "[TERA] ulitka",
+                "distance": "76m",
+                "weapon": "M76",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[CBR]yod",
+            "frags": 2,
+            "side": "EAST",
+            "group": "Alpha 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:27:32",
+                    "victim_name": "[STELS]Zealot",
+                    "distance": "42m",
+                    "weapon": "[CUP] РПК-74Н",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:28:37",
+                    "victim_name": "[A] Garik",
+                    "distance": "13m",
+                    "weapon": "[CUP] РПК-74Н",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[PS]Borw",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 3-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:08:31",
+                "victim_name": "[DT]Greid",
+                "distance": "26m",
+                "weapon": "Mk 18 Mod 1 (AFG)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[RMC]DoS",
+            "frags": 2,
+            "side": "EAST",
+            "group": "Alpha 3-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:16:14",
+                    "victim_name": "[RE]Madori",
+                    "distance": "145m",
+                    "weapon": "[RBC] G28 [Black]",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:24:53",
+                    "victim_name": "aniflexer",
+                    "distance": "137m",
+                    "weapon": "[RBC] G28 [Black]",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[TF]Lion",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:19:06",
+                "victim_name": "[7th]Amogus",
+                "distance": "104m",
+                "weapon": "[HLC] SG 550 Sniper (RIS)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[UN]Ezer",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 3-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:05:05",
+                "victim_name": "[DT]Greid",
+                "distance": "276m",
+                "weapon": "RGW 90 (AT) Used",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "M1117 ASV",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:26:03",
+                "victim_name": "[TERA] KSander",
+                "distance": "41m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "Sami Amin",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:18",
+                "victim_name": "[LG]heizy",
+                "distance": "109m",
+                "weapon": "HK416 D14.5 (M320)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "Vassiliok",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:15:35",
+                "victim_name": "[UN]Исак",
+                "distance": "186m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[7th]Gnev",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 1-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:29",
+                "victim_name": "*ARMA*",
+                "distance": "-1m",
+                "weapon": "no weapon",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[A] Garik",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Alpha 3-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:16:13",
+                    "victim_name": "[7th]Ezhov",
+                    "distance": "24m",
+                    "weapon": "Mk 11 Mod 0",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:28:37",
+                "victim_name": "[CBR]yod",
+                "distance": "13m",
+                "weapon": "[CUP] РПК-74Н",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[DT]Greid",
+            "frags": 4,
+            "side": "EAST",
+            "group": "Alpha 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:05:05",
+                    "victim_name": "Land Rover WMIK GPMG FFR (Sand)",
+                    "distance": "268m",
+                    "weapon": "RGW 90 (AT)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:05:05",
+                    "victim_name": "[UN]Ezer",
+                    "distance": "276m",
+                    "weapon": "RGW 90 (AT) Used",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:05:05",
+                    "victim_name": "[UN] MACTEP",
+                    "distance": "269m",
+                    "weapon": "RGW 90 (AT) Used",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:05:05",
+                    "victim_name": "[UN]Logan",
+                    "distance": "271m",
+                    "weapon": "RGW 90 (AT) Used",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:08:31",
+                    "victim_name": "[PS]Borw",
+                    "distance": "26m",
+                    "weapon": "Mk 18 Mod 1 (AFG)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[LG]heizy",
+            "frags": 2,
+            "side": "WEST",
+            "group": "Alpha 1-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 3,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:17:24",
+                    "victim_name": "[RDO] Trouble",
+                    "distance": "654m",
+                    "weapon": "HK416 D14.5 (M320)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:23:18",
+                    "victim_name": "Idris Bahadur",
+                    "distance": "140m",
+                    "weapon": "HK416 D14.5 (M320)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:23:18",
+                    "victim_name": "Sami Amin",
+                    "distance": "109m",
+                    "weapon": "HK416 D14.5 (M320)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:23:19",
+                    "victim_name": "Majeed Noori",
+                    "distance": "106m",
+                    "weapon": "HK416 D14.5 (M320)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:24:21",
+                    "victim_name": "[CBR]Cherchi",
+                    "distance": "284m",
+                    "weapon": "HK416 D14.5 (M320)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[RE]Koppy",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Alpha 3-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:17:41",
+                    "victim_name": "[RDO] Чича",
+                    "distance": "66m",
+                    "weapon": "Mk 18 Mod 1 (AFG)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:04",
+                "victim_name": "[RMC]Jastik",
+                "distance": "219m",
+                "weapon": "[HLC] G36KA1 (KSK/AG36)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[UN]Farid",
+            "frags": 2,
+            "side": "WEST",
+            "group": "Alpha 1-5",
+            "teamkills": 0,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:12:56",
+                    "victim_name": "[7th]Pashtet",
+                    "distance": "163m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:15:34",
+                    "victim_name": "M1117 ASV",
+                    "distance": "40m",
+                    "weapon": "Panzerfaust 3",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:24:34",
+                    "victim_name": "[FSK]nurmuh",
+                    "distance": "110m",
+                    "weapon": "M32 MGL",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:27:54",
+                "victim_name": "[RMC]Jastik",
+                "distance": "235m",
+                "weapon": "[HLC] G36KA1 (KSK/AG36)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[UN]Logan",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 3-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:05:05",
+                "victim_name": "[DT]Greid",
+                "distance": "271m",
+                "weapon": "RGW 90 (AT) Used",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[VRG] Cat",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Alpha 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 2,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:15:01",
+                    "victim_name": "Hilux (ZU23)",
+                    "distance": "1032m",
+                    "weapon": "MP7A2 (Desert)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:15:01",
+                    "victim_name": "[RMC] Uktus",
+                    "distance": "1057m",
+                    "weapon": "MP7A2 (Desert)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:20:30",
+                    "victim_name": "Hilux (AGS-30)",
+                    "distance": "840m",
+                    "weapon": "MP7A2 (Desert)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:43",
+                "victim_name": "[RMC] Monty",
+                "distance": "385m",
+                "weapon": "Mk 18 Mod 1 (AFG)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "aniflexer",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 3-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:24:53",
+                "victim_name": "[RMC]DoS",
+                "distance": "137m",
+                "weapon": "[RBC] G28 [Black]",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[7th]Ezhov",
+            "frags": 2,
+            "side": "EAST",
+            "group": "Alpha 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:13:11",
+                    "victim_name": "[13th] Doloman",
+                    "distance": "299m",
+                    "weapon": "[HLC] SG 550 Sniper (RIS)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:13:20",
+                    "victim_name": "[520th] Эфедрин",
+                    "distance": "252m",
+                    "weapon": "[HLC] SG 550 Sniper (RIS)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:16:13",
+                "victim_name": "[A] Garik",
+                "distance": "24m",
+                "weapon": "Mk 11 Mod 0",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[DT]TrekeR",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:21:45",
+                "victim_name": "[LG]DON",
+                "distance": "2078m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[RDO] Nael",
+            "frags": 2,
+            "side": "EAST",
+            "group": "Alpha 3-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:25:13",
+                    "victim_name": "[13th] Hakka",
+                    "distance": "106m",
+                    "weapon": "[HLC] SG 550 Sniper (RIS)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:25:21",
+                    "victim_name": "[STELS]Petrucho",
+                    "distance": "211m",
+                    "weapon": "[HLC] SG 550 Sniper (RIS)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[RE]Madori",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 3-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:16:14",
+                "victim_name": "[RMC]DoS",
+                "distance": "145m",
+                "weapon": "[RBC] G28 [Black]",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[RL]Makaka",
+            "frags": 1,
+            "side": "EAST",
+            "group": "Alpha 1-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:25:54",
+                    "victim_name": "KosTik",
+                    "distance": "3m",
+                    "weapon": "АК-74МР (ГП-25)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[URAL]Rebi",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:56",
+                "victim_name": "[NT] Yofox_",
+                "distance": "272m",
+                "weapon": "АК-74М пустынный (Б-13)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[7th]Amogus",
+            "frags": 4,
+            "side": "EAST",
+            "group": "Alpha 1-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:15:37",
+                    "victim_name": "[13th] CaH4e3",
+                    "distance": "67m",
+                    "weapon": "[HLC] SG 550 Sniper (RIS)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:17:28",
+                    "victim_name": "[STELS]Pushkar",
+                    "distance": "303m",
+                    "weapon": "[HLC] SG 550 Sniper (RIS)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:19:06",
+                    "victim_name": "[TF]Lion",
+                    "distance": "104m",
+                    "weapon": "[HLC] SG 550 Sniper (RIS)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:19:57",
+                    "victim_name": "vaska",
+                    "distance": "43m",
+                    "weapon": "[HLC] SG 550 Sniper (RIS)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[FSK] Sprut",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:42",
+                "victim_name": "[UN]Исак",
+                "distance": "67m",
+                "weapon": "RGW 90 (HE)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[FSK]nurmuh",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:24:34",
+                "victim_name": "[UN]Farid",
+                "distance": "110m",
+                "weapon": "M32 MGL",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[NT] Yofox_",
+            "frags": 1,
+            "side": "EAST",
+            "group": "Alpha 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:23:56",
+                    "victim_name": "[URAL]Rebi",
+                    "distance": "272m",
+                    "weapon": "АК-74М пустынный (Б-13)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:26:18",
+                "victim_name": "Zhendos",
+                "distance": "206m",
+                "weapon": "Mk 11 Mod 0",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[RMC] Monty",
+            "frags": 2,
+            "side": "EAST",
+            "group": "Alpha 2-5",
+            "teamkills": 0,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:25:43",
+                    "victim_name": "[VRG] Cat",
+                    "distance": "385m",
+                    "weapon": "Mk 18 Mod 1 (AFG)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:25:43",
+                    "victim_name": "EC-635 (Support)",
+                    "distance": "385m",
+                    "weapon": "Mk 18 Mod 1 (AFG)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:25:43",
+                    "victim_name": "[VRG] Olemak",
+                    "distance": "369m",
+                    "weapon": "Mk 18 Mod 1 (AFG)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[RMC] Uktus",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 2-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:15:01",
+                "victim_name": "[VRG] Cat",
+                "distance": "1057m",
+                "weapon": "MP7A2 (Desert)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[RMC]Jastik",
+            "frags": 4,
+            "side": "EAST",
+            "group": "Alpha 3-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:17:58",
+                    "victim_name": "[RE]Gakcter5",
+                    "distance": "179m",
+                    "weapon": "[HLC] G36KA1 (KSK/AG36)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:25:04",
+                    "victim_name": "[RE]Koppy",
+                    "distance": "219m",
+                    "weapon": "[HLC] G36KA1 (KSK/AG36)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:25:41",
+                    "victim_name": "[520th] Alik",
+                    "distance": "33m",
+                    "weapon": "[HLC] G36KA1 (KSK/AG36)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:27:54",
+                    "victim_name": "[UN]Farid",
+                    "distance": "235m",
+                    "weapon": "[HLC] G36KA1 (KSK/AG36)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[RMI]Trager",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Alpha 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:24:36",
+                    "victim_name": "[TERA] ulitka",
+                    "distance": "156m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:28:10",
+                "victim_name": "[FSK] Ерсын",
+                "distance": "254m",
+                "weapon": "АК-74МР (ГП-25)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[SNZ]Sweety",
+            "frags": 2,
+            "side": "WEST",
+            "group": "Alpha 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:27:58",
+                    "victim_name": "[NT] SexFlexer",
+                    "distance": "105m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:28:14",
+                    "victim_name": "[RMC] Marshall",
+                    "distance": "148m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:28:29",
+                "victim_name": "[CBR]Vitalya",
+                "distance": "111m",
+                "weapon": "M76",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[STELS]sega",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:26:37",
+                "victim_name": "[TERA] KSander",
+                "distance": "11m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[UN] MACTEP",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 3-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:05:05",
+                "victim_name": "[DT]Greid",
+                "distance": "269m",
+                "weapon": "RGW 90 (AT) Used",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[UN] havaec",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 1-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:50",
+                "victim_name": "[СМЕРШ]Zaba4",
+                "distance": "380m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[URAL] SARS",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Alpha 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:23:54",
+                    "victim_name": "[СМЕРШ]Zaba4",
+                    "distance": "159m",
+                    "weapon": "HK416 D14.5 (M320)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:24:02",
+                    "victim_name": "Hilux (Rocket)",
+                    "distance": "115m",
+                    "weapon": "HK416 D14.5 (M320)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:34",
+                "victim_name": "[RMC] Kypatop",
+                "distance": "82m",
+                "weapon": "[HLC] G36KC (KAC)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[VRG] Jesus",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Alpha 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:16:58",
+                    "victim_name": "[TERA] Nekip",
+                    "distance": "151m",
+                    "weapon": "Mk 18 Mod 1 (AFG)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:17:45",
+                "victim_name": "[RMC] Marshall",
+                "distance": "225m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[VRG] Yanik",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:49",
+                "victim_name": "[RMC] Marshall",
+                "distance": "81m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "k1llsw1tch!",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:18:16",
+                "victim_name": "[URAL] Mosinka_Stalina",
+                "distance": "248m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "Hilux (ZU23)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:15:01",
+                "victim_name": "[VRG] Cat",
+                "distance": "1032m",
+                "weapon": "MP7A2 (Desert)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "Majeed Noori",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:19",
+                "victim_name": "[LG]heizy",
+                "distance": "106m",
+                "weapon": "HK416 D14.5 (M320)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[13th] Hakka",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Alpha 2-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:24:51",
+                    "victim_name": "[РДО] VavvVay :З",
+                    "distance": "182m",
+                    "weapon": "Mk 11 Mod 0",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:13",
+                "victim_name": "[RDO] Nael",
+                "distance": "106m",
+                "weapon": "[HLC] SG 550 Sniper (RIS)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[520th] Alik",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:41",
+                "victim_name": "[RMC]Jastik",
+                "distance": "33m",
+                "weapon": "[HLC] G36KA1 (KSK/AG36)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[7th]Pashtet",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:12:56",
+                "victim_name": "[UN]Farid",
+                "distance": "163m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[CBR]Cherchi",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 1-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:24:21",
+                "victim_name": "[LG]heizy",
+                "distance": "284m",
+                "weapon": "HK416 D14.5 (M320)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[CBR]Vitalya",
+            "frags": 1,
+            "side": "EAST",
+            "group": "Alpha 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:28:29",
+                    "victim_name": "[SNZ]Sweety",
+                    "distance": "111m",
+                    "weapon": "M76",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[Delta]Siris",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:07:17",
+                "victim_name": "[СМЕРШ]Vatman",
+                "distance": "64m",
+                "weapon": "[CUP] РПК-74Н",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[LG] Fused88",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:22:04",
+                "victim_name": "[TERA] ulitka",
+                "distance": "334m",
+                "weapon": "M76",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[LG] artyrka",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:26:03",
+                "victim_name": "[TERA] KSander",
+                "distance": "44m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[RE]Gakcter5",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 3-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:17:58",
+                "victim_name": "[RMC]Jastik",
+                "distance": "179m",
+                "weapon": "[HLC] G36KA1 (KSK/AG36)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[SYND] g4bby",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:25:31",
+                "victim_name": "[FSK] Ерсын",
+                "distance": "224m",
+                "weapon": "АК-74МР (ГП-25)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[TERA] Iskra",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:19",
+                "victim_name": "[LG]k0t",
+                "distance": "124m",
+                "weapon": "HK416 D14.5 (M320)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[TERA] Nekip",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:16:58",
+                "victim_name": "[VRG] Jesus",
+                "distance": "151m",
+                "weapon": "Mk 18 Mod 1 (AFG)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[UN]Исак",
+            "frags": 4,
+            "side": "WEST",
+            "group": "Alpha 1-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:15:35",
+                    "victim_name": "Vassiliok",
+                    "distance": "186m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:19:09",
+                    "victim_name": "Kirill",
+                    "distance": "158m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:25:42",
+                    "victim_name": "[FSK] Sprut",
+                    "distance": "67m",
+                    "weapon": "RGW 90 (HE)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:26:37",
+                    "victim_name": "[TERA] KSander",
+                    "distance": "9m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[VRG] Olemak",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Alpha 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:20:27",
+                    "victim_name": "[RDO] А ГейСер",
+                    "distance": "591m",
+                    "weapon": "M32 MGL",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:43",
+                "victim_name": "[RMC] Monty",
+                "distance": "369m",
+                "weapon": "Mk 18 Mod 1 (AFG)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "Idris Bahadur",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:18",
+                "victim_name": "[LG]heizy",
+                "distance": "140m",
+                "weapon": "HK416 D14.5 (M320)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "Qasim Sangeen",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:04",
+                "victim_name": "[LG]DON",
+                "distance": "65m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[13th] CaH4e3",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:15:37",
+                "victim_name": "[7th]Amogus",
+                "distance": "67m",
+                "weapon": "[HLC] SG 550 Sniper (RIS)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[Delta]Raidar",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:07:05",
+                "victim_name": "[СМЕРШ] lazcore",
+                "distance": "81m",
+                "weapon": "АК-74МР (ГП-25)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[RDO] Trouble",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:17:24",
+                "victim_name": "[LG]heizy",
+                "distance": "654m",
+                "weapon": "HK416 D14.5 (M320)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[RMC] Kypatop",
+            "frags": 2,
+            "side": "EAST",
+            "group": "Alpha 3-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:25:34",
+                    "victim_name": "[URAL] SARS",
+                    "distance": "82m",
+                    "weapon": "[HLC] G36KC (KAC)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:29:12",
+                    "victim_name": "[LG]DON",
+                    "distance": "122m",
+                    "weapon": "[HLC] G36KC (KAC)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[STELS]Zealot",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:27:32",
+                "victim_name": "[CBR]yod",
+                "distance": "42m",
+                "weapon": "[CUP] РПК-74Н",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[TERA] ulitka",
+            "frags": 2,
+            "side": "EAST",
+            "group": "Alpha 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:22:04",
+                    "victim_name": "[LG] Fused88",
+                    "distance": "334m",
+                    "weapon": "M76",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:23:38",
+                    "victim_name": "[LG]k0t",
+                    "distance": "76m",
+                    "weapon": "M76",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:24:36",
+                "victim_name": "[RMI]Trager",
+                "distance": "156m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "Hilux (AGS-30)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:20:30",
+                "victim_name": "[VRG] Cat",
+                "distance": "840m",
+                "weapon": "MP7A2 (Desert)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "Hilux (Rocket)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:24:02",
+                "victim_name": "[URAL] SARS",
+                "distance": "115m",
+                "weapon": "HK416 D14.5 (M320)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "Quinton Murphy",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:15:39",
+                "victim_name": "MAN HX58 6x6 Repair (Sand)",
+                "distance": "4606m",
+                "weapon": "no weapon",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[13th] Doloman",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:13:11",
+                "victim_name": "[7th]Ezhov",
+                "distance": "299m",
+                "weapon": "[HLC] SG 550 Sniper (RIS)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[Delta] Ranger",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:12:53",
+                "victim_name": "[СМЕРШ] Змагар",
+                "distance": "185m",
+                "weapon": "M76",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[JESTER]Clover",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:07:12",
+                "victim_name": "[СМЕРШ]Zaba4",
+                "distance": "305m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[LG] NotSkvich",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 1-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:26:19",
+                "victim_name": "[TERA] KSander",
+                "distance": "16m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[NT] SexFlexer",
+            "frags": 1,
+            "side": "EAST",
+            "group": "Alpha 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:26:14",
+                    "victim_name": "[STELS]SemFisher",
+                    "distance": "143m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:27:58",
+                "victim_name": "[SNZ]Sweety",
+                "distance": "105m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[RDO] Чича",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:17:41",
+                "victim_name": "[RE]Koppy",
+                "distance": "66m",
+                "weapon": "Mk 18 Mod 1 (AFG)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[RMC] Marshall",
+            "frags": 2,
+            "side": "EAST",
+            "group": "Alpha 2-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:17:45",
+                    "victim_name": "[VRG] Jesus",
+                    "distance": "225m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:23:49",
+                    "victim_name": "[VRG] Yanik",
+                    "distance": "81m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:28:14",
+                "victim_name": "[SNZ]Sweety",
+                "distance": "148m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[STELS]Pushkar",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:17:28",
+                "victim_name": "[7th]Amogus",
+                "distance": "303m",
+                "weapon": "[HLC] SG 550 Sniper (RIS)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[TERA] KSander",
+            "frags": 4,
+            "side": "EAST",
+            "group": "Alpha 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:24:37",
+                    "victim_name": "[VRG] Wojciech84",
+                    "distance": "8m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:26:03",
+                    "victim_name": "M1117 ASV",
+                    "distance": "41m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:26:03",
+                    "victim_name": "[LG] artyrka",
+                    "distance": "44m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:26:19",
+                    "victim_name": "[LG] NotSkvich",
+                    "distance": "16m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:26:37",
+                    "victim_name": "[STELS]sega",
+                    "distance": "11m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:26:37",
+                "victim_name": "[UN]Исак",
+                "distance": "9m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[13th] Evgenrus",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:46",
+                "victim_name": "[СМЕРШ]Zaba4",
+                "distance": "195m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[Delta] Delovoy",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:07:50",
+                "victim_name": "Stanis",
+                "distance": "133m",
+                "weapon": "АК-74М пустынный (Б-13)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[STELS]Petrucho",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:21",
+                "victim_name": "[RDO] Nael",
+                "distance": "211m",
+                "weapon": "[HLC] SG 550 Sniper (RIS)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[SYND] Улюп",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:15",
+                "victim_name": "[SYND] Улюп",
+                "distance": "0m",
+                "weapon": "TT-33",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[TERA] Altesair",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:27:24",
+                "victim_name": "[VRG] Wojciech84",
+                "distance": "68m",
+                "weapon": "Glock 17",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "EC-635 (Support)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:43",
+                "victim_name": "[RMC] Monty",
+                "distance": "385m",
+                "weapon": "Mk 18 Mod 1 (AFG)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[FSK] Ерсын",
+            "frags": 1,
+            "side": "EAST",
+            "group": "Alpha 3-6",
+            "teamkills": 1,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "TK",
+                    "time": "0:25:31",
+                    "victim_name": "[SYND] g4bby",
+                    "distance": "224m",
+                    "weapon": "АК-74МР (ГП-25)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:28:10",
+                    "victim_name": "[RMI]Trager",
+                    "distance": "254m",
+                    "weapon": "АК-74МР (ГП-25)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:28:23",
+                "victim_name": "[LG]DON",
+                "distance": "5m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[STELS]SemFisher",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:26:14",
+                "victim_name": "[NT] SexFlexer",
+                "distance": "143m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[VRG] Wojciech84",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Alpha 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:27:24",
+                    "victim_name": "[TERA] Altesair",
+                    "distance": "68m",
+                    "weapon": "Glock 17",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:24:37",
+                "victim_name": "[TERA] KSander",
+                "distance": "8m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[СЛОН] Nomand",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Alpha 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:25:48",
+                    "victim_name": "[СМЕРШ] Змагар",
+                    "distance": "14m",
+                    "weapon": "M249 PIP Short (RIS/Para)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[СМЕРШ]Demur",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:17:15",
+                "victim_name": "[СМЕРШ]Zaba4",
+                "distance": "157m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[СМЕРШ]Zaba4",
+            "frags": 3,
+            "side": "EAST",
+            "group": "Alpha 2-3",
+            "teamkills": 4,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:07:12",
+                    "victim_name": "[JESTER]Clover",
+                    "distance": "305m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "TK",
+                    "time": "0:17:15",
+                    "victim_name": "[СМЕРШ]Demur",
+                    "distance": "157m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "TK",
+                    "time": "0:17:15",
+                    "victim_name": "[СМЕРШ] lazcore",
+                    "distance": "157m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:17:15",
+                    "victim_name": "SUV 4x4 Armed (M134)",
+                    "distance": "157m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "TK",
+                    "time": "0:17:16",
+                    "victim_name": "Stanis",
+                    "distance": "153m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "TK",
+                    "time": "0:17:16",
+                    "victim_name": "[СМЕРШ]Vatman",
+                    "distance": "153m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:23:46",
+                    "victim_name": "[13th] Evgenrus",
+                    "distance": "195m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:23:50",
+                    "victim_name": "[UN] havaec",
+                    "distance": "380m",
+                    "weapon": "АКМ (Б-10М/Б-33)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:54",
+                "victim_name": "[URAL] SARS",
+                "distance": "159m",
+                "weapon": "HK416 D14.5 (M320)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[СМЕРШ]Vatman",
+            "frags": 1,
+            "side": "EAST",
+            "group": "Alpha 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:07:17",
+                    "victim_name": "[Delta]Siris",
+                    "distance": "64m",
+                    "weapon": "[CUP] РПК-74Н",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:17:16",
+                "victim_name": "[СМЕРШ]Zaba4",
+                "distance": "153m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "SUV 4x4 Armed (M134)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:17:15",
+                "victim_name": "[СМЕРШ]Zaba4",
+                "distance": "157m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[РДО] VavvVay :З",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:24:51",
+                "victim_name": "[13th] Hakka",
+                "distance": "182m",
+                "weapon": "Mk 11 Mod 0",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[СМЕРШ] lazcore",
+            "frags": 1,
+            "side": "EAST",
+            "group": "Alpha 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:07:05",
+                    "victim_name": "[Delta]Raidar",
+                    "distance": "81m",
+                    "weapon": "АК-74МР (ГП-25)",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:17:15",
+                "victim_name": "[СМЕРШ]Zaba4",
+                "distance": "157m",
+                "weapon": "АКМ (Б-10М/Б-33)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[RDO] А ГейСер",
+            "frags": 0,
+            "side": "EAST",
+            "group": "Alpha 3-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:20:27",
+                "victim_name": "[VRG] Olemak",
+                "distance": "591m",
+                "weapon": "M32 MGL",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[520th] Эфедрин",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:13:20",
+                "victim_name": "[7th]Ezhov",
+                "distance": "252m",
+                "weapon": "[HLC] SG 550 Sniper (RIS)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[URAL] Mosinka_Stalina",
+            "frags": 2,
+            "side": "WEST",
+            "group": "Alpha 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:17:20",
+                    "victim_name": "Egor",
+                    "distance": "178m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:18:16",
+                    "victim_name": "k1llsw1tch!",
+                    "distance": "248m",
+                    "weapon": "HK416 D14.5 Desert Grass",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:26:50",
+                "victim_name": "[LG]DON",
+                "distance": "12m",
+                "weapon": "HK416 D14.5 Desert Grass",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[520th] Лидокаин",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Alpha 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:24:54",
+                "victim_name": "[СМЕРШ] Змагар",
+                "distance": "37m",
+                "weapon": "M76",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "[СМЕРШ] Змагар",
+            "frags": 2,
+            "side": "EAST",
+            "group": "Alpha 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:12:53",
+                    "victim_name": "[Delta] Ranger",
+                    "distance": "185m",
+                    "weapon": "M76",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:24:54",
+                    "victim_name": "[520th] Лидокаин",
+                    "distance": "37m",
+                    "weapon": "M76",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:48",
+                "victim_name": "[СЛОН] Nomand",
+                "distance": "14m",
+                "weapon": "M249 PIP Short (RIS/Para)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        },
+        {
+            "player_name": "MAN HX58 6x6 Repair (Sand)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 1,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:15:39",
+                    "victim_name": "Quinton Murphy",
+                    "distance": "4606m",
+                    "weapon": "no weapon",
+                    "mission_id": "5657",
+                    "mission_date": "2025-08-09"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "Land Rover WMIK GPMG FFR (Sand)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:05:05",
+                "victim_name": "[DT]Greid",
+                "distance": "268m",
+                "weapon": "RGW 90 (AT)",
+                "mission_id": "5657",
+                "mission_date": "2025-08-09"
+            }
+        }
+    ],
+    "team_stats": {
+        "LG": {
+            "frags": 5,
+            "teamkills": 1,
+            "deaths": 5,
+            "side": "WEST"
+        },
+        "RMC": {
+            "frags": 12,
+            "teamkills": 0,
+            "deaths": 2,
+            "side": "EAST"
+        },
+        "TF": {
+            "frags": 0,
+            "teamkills": 0,
+            "deaths": 1,
+            "side": "WEST"
+        },
+        "UN": {
+            "frags": 6,
+            "teamkills": 0,
+            "deaths": 5,
+            "side": "WEST"
+        },
+        "7th": {
+            "frags": 6,
+            "teamkills": 0,
+            "deaths": 3,
+            "side": "EAST"
+        },
+        "RE": {
+            "frags": 1,
+            "teamkills": 0,
+            "deaths": 3,
+            "side": "WEST"
+        },
+        "VRG": {
+            "frags": 4,
+            "teamkills": 0,
+            "deaths": 5,
+            "side": "WEST"
+        },
+        "RDO": {
+            "frags": 2,
+            "teamkills": 0,
+            "deaths": 3,
+            "side": "EAST"
+        },
+        "URAL": {
+            "frags": 3,
+            "teamkills": 0,
+            "deaths": 3,
+            "side": "WEST"
+        },
+        "FSK": {
+            "frags": 1,
+            "teamkills": 1,
+            "deaths": 3,
+            "side": "EAST"
+        },
+        "NT": {
+            "frags": 2,
+            "teamkills": 0,
+            "deaths": 2,
+            "side": "EAST"
+        },
+        "SNZ": {
+            "frags": 2,
+            "teamkills": 0,
+            "deaths": 1,
+            "side": "WEST"
+        },
+        "STELS": {
+            "frags": 0,
+            "teamkills": 0,
+            "deaths": 5,
+            "side": "WEST"
+        },
+        "13th": {
+            "frags": 1,
+            "teamkills": 0,
+            "deaths": 4,
+            "side": "WEST"
+        },
+        "520th": {
+            "frags": 0,
+            "teamkills": 0,
+            "deaths": 3,
+            "side": "WEST"
+        },
+        "SYND": {
+            "frags": 0,
+            "teamkills": 0,
+            "deaths": 2,
+            "side": "EAST"
+        },
+        "TERA": {
+            "frags": 6,
+            "teamkills": 0,
+            "deaths": 5,
+            "side": "EAST"
+        },
+        "СМЕРШ": {
+            "frags": 7,
+            "teamkills": 4,
+            "deaths": 5,
+            "side": "EAST"
+        }
+    }
+}

@@ -1,0 +1,3769 @@
+{
+    "id": "5650",
+    "mission_name": "RBC_210_independent_altis_v1b",
+    "ocap_link": "https://ocap.red-bear.ru/?file=2025_08_02__21_16_RBC_210_independent_altis_v1b.json&frame=0&zoom=1.9&x=-127&y=128",
+    "stats_url": "http://stats.red-bear.ru/?filename=2025_08_02__21_16_RBC_210_independent_altis_v1b.json",
+    "players": "139",
+    "frags": "96 (56/40)",
+    "tk": "10",
+    "map": "Altis",
+    "duration": "0:51:42",
+    "date": "2025-08-02",
+    "tag_check": "tvt",
+    "players_stats": [
+        {
+            "player_name": "*ARMA*",
+            "frags": 3,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 2,
+            "vehicle_kills": 0,
+            "ai_kills": 1,
+            "victims": [
+                {
+                    "kill_type": "TK",
+                    "time": "0:13:16",
+                    "victim_name": "VW Golf",
+                    "distance": "-1m",
+                    "weapon": "no weapon",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:13:16",
+                    "victim_name": "[13th] Oleg",
+                    "distance": "-1m",
+                    "weapon": "no weapon",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "TK",
+                    "time": "0:13:16",
+                    "victim_name": "Skoda 105",
+                    "distance": "-1m",
+                    "weapon": "no weapon",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:13:16",
+                    "victim_name": "Giorgos Elias",
+                    "distance": "-1m",
+                    "weapon": "no weapon",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:13:16",
+                    "victim_name": "[13th] Evgenrus",
+                    "distance": "-1m",
+                    "weapon": "no weapon",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:13:16",
+                    "victim_name": "[13th] WoWrostov",
+                    "distance": "-1m",
+                    "weapon": "no weapon",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "Kirill",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:37:53",
+                "victim_name": "[13th] Hakka",
+                "distance": "84m",
+                "weapon": "[BAF] L119A1 CQB",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "zlodei",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:37:14",
+                "victim_name": "Dw. Ridchard_Gordan",
+                "distance": "30m",
+                "weapon": "MG42",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Chaplya",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:27:32",
+                "victim_name": "[RMC] Monty",
+                "distance": "1284m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Olegius",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Baskerville 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:38:03",
+                    "victim_name": "[СМЕРШ]Coffee",
+                    "distance": "69m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "VW Golf",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:13:16",
+                "victim_name": "*ARMA*",
+                "distance": "-1m",
+                "weapon": "no weapon",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[LG]DON",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Koinotita 3-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:15:49",
+                "victim_name": "[RMC] Monty",
+                "distance": "2155m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[LG]k0t",
+            "frags": 2,
+            "side": "GUER",
+            "group": "Kounoupion 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:28:22",
+                    "victim_name": "Jackal 2 HMG Desert",
+                    "distance": "69m",
+                    "weapon": "RPG-75 (used)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:28:37",
+                    "victim_name": "[RMC]DoS",
+                    "distance": "80m",
+                    "weapon": "[BAF] L119A1 CQB",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:30:51",
+                    "victim_name": "[FSK] Ерсын",
+                    "distance": "377m",
+                    "weapon": "[BAF] L119A1 CQB",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:35:14",
+                "victim_name": "[RE]Gakcter5",
+                "distance": "27m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[JW] BAN",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kokkino 1-6",
+            "teamkills": 1,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "TK",
+                    "time": "0:40:11",
+                    "victim_name": "[RDO] А ГейСер",
+                    "distance": "5m",
+                    "weapon": "MG42",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:41:26",
+                    "victim_name": "[FSK]nurmuh",
+                    "distance": "79m",
+                    "weapon": "MG42",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[RMC]DoS",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 3-2",
+            "teamkills": 1,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "TK",
+                    "time": "0:20:51",
+                    "victim_name": "[RMC]Eva",
+                    "distance": "3m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:28:37",
+                "victim_name": "[LG]k0t",
+                "distance": "80m",
+                "weapon": "[BAF] L119A1 CQB",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[RMC]Eva",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:20:51",
+                "victim_name": "[RMC]DoS",
+                "distance": "3m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[StB]Pit",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:42:00",
+                "victim_name": "[RMC] Monty",
+                "distance": "832m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[TF]bass",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:32:20",
+                "victim_name": "[RMC] Monty",
+                "distance": "1101m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Skoda 105",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:13:16",
+                "victim_name": "*ARMA*",
+                "distance": "-1m",
+                "weapon": "no weapon",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Vassiliok",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:27:32",
+                "victim_name": "[RMC] Monty",
+                "distance": "1283m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[7th]Gnev",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:31:46",
+                "victim_name": "[RMC] Monty",
+                "distance": "1166m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[CA] Efr.",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Koinotita 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:14:03",
+                    "victim_name": "[NT] Gookowski",
+                    "distance": "222m",
+                    "weapon": "L1A1 [Polymer]",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:19:16",
+                "victim_name": "[NT] NKVDshnik",
+                "distance": "216m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[LG] Pank",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kounoupion 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:19:11",
+                    "victim_name": "[UN]Farid",
+                    "distance": "258m",
+                    "weapon": "[BAF] L119A1",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:34",
+                "victim_name": "[RMC] Monty",
+                "distance": "1134m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[UN]BATRA",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 3-3",
+            "teamkills": 0,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:18:30",
+                    "victim_name": "Datsun 620 Pickup (Open)",
+                    "distance": "396m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[UN]Farid",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:19:11",
+                "victim_name": "[LG] Pank",
+                "distance": "258m",
+                "weapon": "[BAF] L119A1",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[UN]Grand",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:19:51",
+                "victim_name": "[UN] MACTEP",
+                "distance": "16m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[VRG] Cat",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:15:25",
+                "victim_name": "[520th] Gast",
+                "distance": "17m",
+                "weapon": "[BAF] L119A1 CQB",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Dw. Domver",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:02",
+                "victim_name": "[RMC] Monty",
+                "distance": "1395m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Dw. MOLOKO",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:38:20",
+                "victim_name": "[UN]Исак",
+                "distance": "5m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[7th]ŽUBR",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:29:59",
+                "victim_name": "[UN] FishKa",
+                "distance": "12m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[RDO] Nael",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kounoupion 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:35:11",
+                "victim_name": "[TERA] KSander",
+                "distance": "53m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[RMC] Teng",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:40:15",
+                "victim_name": "[РДО] VavvVay :З",
+                "distance": "4m",
+                "weapon": "[BAF] L119A1",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[StB]Psikh",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kokkino 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:38:07",
+                    "victim_name": "[TERA] Iskra",
+                    "distance": "8m",
+                    "weapon": "[BAF] L119A1 CQB",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:38:10",
+                "victim_name": "[TERA] KSander",
+                "distance": "3m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[TERA]Zloy",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-5",
+            "teamkills": 1,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "TK",
+                    "time": "0:22:26",
+                    "victim_name": "[SYND] Масло",
+                    "distance": "93m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[TF] Milan",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:26:43",
+                "victim_name": "[TERA] Vadimkl",
+                "distance": "810m",
+                "weapon": "Binoculars",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[URAL]Rebi",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Koinotita 3-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:17:27",
+                "victim_name": "[TERA] teran",
+                "distance": "194m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[VRG] Dank",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:21:32",
+                "victim_name": "[520th] SKY",
+                "distance": "150m",
+                "weapon": "[BAF] L119A1",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[VRG] Foki",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:21:13",
+                "victim_name": "[520th] SKY",
+                "distance": "181m",
+                "weapon": "[BAF] L119A1",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[13th] Oleg",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kounoupion 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:13:16",
+                "victim_name": "*ARMA*",
+                "distance": "-1m",
+                "weapon": "no weapon",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[520th] SKY",
+            "frags": 3,
+            "side": "GUER",
+            "group": "Kokkino 1-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:16:40",
+                    "victim_name": "[VRG] Wojciech84",
+                    "distance": "7m",
+                    "weapon": "[BAF] L119A1",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:21:13",
+                    "victim_name": "[VRG] Foki",
+                    "distance": "181m",
+                    "weapon": "[BAF] L119A1",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:21:32",
+                    "victim_name": "[VRG] Dank",
+                    "distance": "150m",
+                    "weapon": "[BAF] L119A1",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:21:51",
+                "victim_name": "[RMC] Monty",
+                "distance": "172m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[7th]karas'",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:15:46",
+                "victim_name": "[VRG] Wojciech84",
+                "distance": "420m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[AGG] Broul",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:28:31",
+                "victim_name": "[AGG] Nosyam",
+                "distance": "24m",
+                "weapon": "[BAF] L7A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[FSK]nurmuh",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Baskerville 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:34:06",
+                    "victim_name": "[LG] NotSkvich",
+                    "distance": "36m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:41:26",
+                "victim_name": "[JW] BAN",
+                "distance": "79m",
+                "weapon": "MG42",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[KSK]Sparis",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kounoupion 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:23:22",
+                "victim_name": "[RMC] Monty",
+                "distance": "944m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[LG]artyrka",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Koinotita 3-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:12:45",
+                    "victim_name": "[SNZ]Sweety",
+                    "distance": "1142m",
+                    "weapon": "",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:19:44",
+                "victim_name": "[UN] MACTEP",
+                "distance": "25m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[NT] Marnet",
+            "frags": 2,
+            "side": "WEST",
+            "group": "Baskerville 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:31:12",
+                    "victim_name": "[CA] AleekseeV",
+                    "distance": "580m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:32:02",
+                    "victim_name": "[CA] Atreides",
+                    "distance": "207m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:41:12",
+                "victim_name": "[CA] Kozapet",
+                "distance": "282m",
+                "weapon": "L1A1 [Wood]",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[NT] Yofox_",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:38:55",
+                "victim_name": "[CA] Kozapet",
+                "distance": "167m",
+                "weapon": "L1A1 [Wood]",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[RMC] Monty",
+            "frags": 20,
+            "side": "WEST",
+            "group": "Baskerville 3-1",
+            "teamkills": 0,
+            "vehicle_kills": 2,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:15:49",
+                    "victim_name": "[LG]DON",
+                    "distance": "2155m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:21:51",
+                    "victim_name": "[520th] SKY",
+                    "distance": "172m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:23:22",
+                    "victim_name": "[KSK]Sparis",
+                    "distance": "944m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:23:34",
+                    "victim_name": "[LG] Pank",
+                    "distance": "1134m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:25:02",
+                    "victim_name": "Dw. Domver",
+                    "distance": "1395m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:25:14",
+                    "victim_name": "[Гивай]Snow Murakami",
+                    "distance": "2149m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:25:22",
+                    "victim_name": "Hilux (Artillery)",
+                    "distance": "2150m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:25:50",
+                    "victim_name": "[KSK]Livesey",
+                    "distance": "1464m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:27:32",
+                    "victim_name": "Chaplya",
+                    "distance": "1284m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:27:32",
+                    "victim_name": "Vassiliok",
+                    "distance": "1283m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:28:31",
+                    "victim_name": "[СМЕРШ] Змагар",
+                    "distance": "946m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:28:42",
+                    "victim_name": "[RDO] Trouble",
+                    "distance": "1007m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:31:05",
+                    "victim_name": "[СМЕРШ] lazcore",
+                    "distance": "1559m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:31:05",
+                    "victim_name": "[СМЕРШ] Renne",
+                    "distance": "1561m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:31:35",
+                    "victim_name": "[STELS]Zealot",
+                    "distance": "1112m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:31:46",
+                    "victim_name": "[7th]Gnev",
+                    "distance": "1166m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:32:20",
+                    "victim_name": "[TF]bass",
+                    "distance": "1101m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:33:21",
+                    "victim_name": "[STELS]SemFisher",
+                    "distance": "816m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:34:34",
+                    "victim_name": "[13th] CaH4e3",
+                    "distance": "1215m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:38:32",
+                    "victim_name": "[13th] Hakka",
+                    "distance": "816m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:40:14",
+                    "victim_name": "Hatchback (Sport)",
+                    "distance": "784m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:42:00",
+                    "victim_name": "[StB]Pit",
+                    "distance": "832m",
+                    "weapon": "[BAF] L22",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[RMC]Jastik",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:35",
+                "victim_name": "Hilux (Artillery)",
+                "distance": "2157m",
+                "weapon": "no weapon",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[SNZ]Sweety",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:12:45",
+                "victim_name": "[LG]artyrka",
+                "distance": "1142m",
+                "weapon": "",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[STELS]Vaza",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kokkino 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:29:42",
+                    "victim_name": "[TERA] Vadimkl",
+                    "distance": "679m",
+                    "weapon": "[BAF] L119A1",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[TERA] NaGa",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Baskerville 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 1,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:38:05",
+                    "victim_name": "Dw. Ridchard_Gordan",
+                    "distance": "72m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:42:00",
+                    "victim_name": "M2 HMG .50 (Raised)",
+                    "distance": "90m",
+                    "weapon": "РПГ-7В2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[UN] FishKa",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Baskerville 3-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:29:59",
+                    "victim_name": "[7th]ŽUBR",
+                    "distance": "12m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[UN] MACTEP",
+            "frags": 2,
+            "side": "WEST",
+            "group": "Baskerville 2-2",
+            "teamkills": 1,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:19:44",
+                    "victim_name": "[LG]artyrka",
+                    "distance": "25m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "TK",
+                    "time": "0:19:51",
+                    "victim_name": "[UN]Grand",
+                    "distance": "16m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:31:52",
+                    "victim_name": "[СМЕРШ]Zaba4",
+                    "distance": "169m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[URAL] SARS",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Koinotita 3-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:18:09",
+                "victim_name": "[TERA] teran",
+                "distance": "259m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[VRG] Jesus",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Baskerville 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:19:13",
+                    "victim_name": "[URAL] Babai",
+                    "distance": "686m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:37:08",
+                "victim_name": "[STELS]Jason",
+                "distance": "69m",
+                "weapon": "Browning Hi-Power",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[VRG] Yanik",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:15:26",
+                "victim_name": "[520th] Gast",
+                "distance": "19m",
+                "weapon": "[BAF] L119A1 CQB",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "k1llsw1tch!",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kounoupion 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:39:10",
+                    "victim_name": "[VRG] Olemak",
+                    "distance": "28m",
+                    "weapon": "Sa vz. 61 (Folded)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:36:29",
+                "victim_name": "[VRG] Matvein",
+                "distance": "16m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Dw. nikokrav",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kokkino 1-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:41:06",
+                    "victim_name": "[AGG]trinadtsatiyyy",
+                    "distance": "9m",
+                    "weapon": "[BAF] L119A1",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:41:17",
+                "victim_name": "[NT] SexFlexer",
+                "distance": "30m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Hilux (ZU23)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:36:59",
+                "victim_name": "[13th] Smittsam",
+                "distance": "25m",
+                "weapon": "Browning Hi-Power",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[13th] Hakka",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kounoupion 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:37:53",
+                    "victim_name": "Kirill",
+                    "distance": "84m",
+                    "weapon": "[BAF] L119A1 CQB",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:38:32",
+                "victim_name": "[RMC] Monty",
+                "distance": "816m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[520th] Gast",
+            "frags": 2,
+            "side": "GUER",
+            "group": "Kokkino 1-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:15:25",
+                    "victim_name": "[VRG] Cat",
+                    "distance": "17m",
+                    "weapon": "[BAF] L119A1 CQB",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:15:26",
+                    "victim_name": "[VRG] Yanik",
+                    "distance": "19m",
+                    "weapon": "[BAF] L119A1 CQB",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:15:45",
+                "victim_name": "[VRG] Matvein",
+                "distance": "80m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[AGG] Nosyam",
+            "frags": 2,
+            "side": "WEST",
+            "group": "Baskerville 1-4",
+            "teamkills": 1,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:18:59",
+                    "victim_name": "[520th] Эфедрин",
+                    "distance": "69m",
+                    "weapon": "[BAF] L7A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:28:31",
+                    "victim_name": "[LG] Fused88",
+                    "distance": "33m",
+                    "weapon": "[BAF] L7A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "TK",
+                    "time": "0:28:31",
+                    "victim_name": "[AGG] Broul",
+                    "distance": "24m",
+                    "weapon": "[BAF] L7A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[CA] Kozapet",
+            "frags": 3,
+            "side": "GUER",
+            "group": "Koinotita 3-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:22:29",
+                    "victim_name": "[NT]Joker112",
+                    "distance": "506m",
+                    "weapon": "L1A1 [Wood]",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:38:55",
+                    "victim_name": "[NT] Yofox_",
+                    "distance": "167m",
+                    "weapon": "L1A1 [Wood]",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:41:12",
+                    "victim_name": "[NT] Marnet",
+                    "distance": "282m",
+                    "weapon": "L1A1 [Wood]",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[Delta]Siris",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Hound 4-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:19:14",
+                "victim_name": "[STELS]Jason",
+                "distance": "5m",
+                "weapon": "РПГ-7В2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[KSK]Livesey",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:50",
+                "victim_name": "[RMC] Monty",
+                "distance": "1464m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[LG] Fused88",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kounoupion 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:28:31",
+                "victim_name": "[AGG] Nosyam",
+                "distance": "33m",
+                "weapon": "[BAF] L7A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[NT]Joker112",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:22:29",
+                "victim_name": "[CA] Kozapet",
+                "distance": "506m",
+                "weapon": "L1A1 [Wood]",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[RE]Gakcter5",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Baskerville 2-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:35:14",
+                    "victim_name": "[LG]k0t",
+                    "distance": "27m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:38:12",
+                "victim_name": "[RDO] А ГейСер",
+                "distance": "6m",
+                "weapon": "[BAF] L119A1 CQB",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[STELS]Jason",
+            "frags": 5,
+            "side": "GUER",
+            "group": "Kokkino 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:19:13",
+                    "victim_name": "Jackal 2 GMG Desert",
+                    "distance": "15m",
+                    "weapon": "РПГ-7В2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:19:13",
+                    "victim_name": "[Delta] Delovoy",
+                    "distance": "10m",
+                    "weapon": "РПГ-7В2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:19:13",
+                    "victim_name": "[Delta]Ogrizok",
+                    "distance": "8m",
+                    "weapon": "РПГ-7В2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:19:14",
+                    "victim_name": "[Delta]Siris",
+                    "distance": "5m",
+                    "weapon": "РПГ-7В2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:34:28",
+                    "victim_name": "[AGG] John_de_Pa`Atras",
+                    "distance": "23m",
+                    "weapon": "[BAF] L119A1 CQB",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:37:08",
+                    "victim_name": "[VRG] Jesus",
+                    "distance": "69m",
+                    "weapon": "Browning Hi-Power",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:36:35",
+                "victim_name": "[TERA] kilmil",
+                "distance": "63m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[TERA] Iskra",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:38:07",
+                "victim_name": "[StB]Psikh",
+                "distance": "8m",
+                "weapon": "[BAF] L119A1 CQB",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[TERA] Nekip",
+            "frags": 2,
+            "side": "WEST",
+            "group": "Baskerville 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:17:58",
+                    "victim_name": "[13th] Godzilla",
+                    "distance": "39m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:18:04",
+                    "victim_name": "[13th] Doloman",
+                    "distance": "86m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:34:00",
+                "victim_name": "[LG] NotSkvich",
+                "distance": "58m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[TERA] teran",
+            "frags": 2,
+            "side": "WEST",
+            "group": "Hound 4-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:17:27",
+                    "victim_name": "[URAL]Rebi",
+                    "distance": "194m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:18:09",
+                    "victim_name": "[URAL] SARS",
+                    "distance": "259m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:30:04",
+                "victim_name": "[STELS]SemFisher",
+                "distance": "79m",
+                "weapon": "MG42",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[TERA]kastet",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-3",
+            "teamkills": 1,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "TK",
+                    "time": "0:17:57",
+                    "victim_name": "[TERA] Altesair",
+                    "distance": "16m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:36:55",
+                "victim_name": "[СМЕРШ]Coffee",
+                "distance": "207m",
+                "weapon": "M79",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[UN]Исак",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Baskerville 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:38:20",
+                    "victim_name": "Dw. MOLOKO",
+                    "distance": "5m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[URAL] Alexs",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Koinotita 3-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:22:13",
+                    "victim_name": "[SYND] Герань",
+                    "distance": "33m",
+                    "weapon": "L1A1 [Polymer]",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:22:15",
+                "victim_name": "[SYND] DAntey",
+                "distance": "88m",
+                "weapon": "[BAF] L7A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[URAL] Babai",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Koinotita 3-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:19:13",
+                "victim_name": "[VRG] Jesus",
+                "distance": "686m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[VRG] Olemak",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:39:10",
+                "victim_name": "k1llsw1tch!",
+                "distance": "28m",
+                "weapon": "Sa vz. 61 (Folded)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "AGS-30 (6P17)",
+            "frags": 1,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:03:40",
+                    "victim_name": "[СМЕРШ]Zaba4",
+                    "distance": "1m",
+                    "weapon": "no weapon",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "Giorgos Elias",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kounoupion 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:13:16",
+                "victim_name": "*ARMA*",
+                "distance": "-1m",
+                "weapon": "no weapon",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Hilux (DHSKM)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:34:06",
+                "victim_name": "[СМЕРШ]Coffee",
+                "distance": "113m",
+                "weapon": "Sa vz. 61 (Folded)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Tractor (Old)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:31:46",
+                "victim_name": "[VRG] Matvein",
+                "distance": "794m",
+                "weapon": "Binoculars",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[13th] CaH4e3",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kounoupion 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:34:34",
+                "victim_name": "[RMC] Monty",
+                "distance": "1215m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[CA] Atreides",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Koinotita 3-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:32:02",
+                "victim_name": "[NT] Marnet",
+                "distance": "207m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[RDO] Trouble",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kounoupion 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:28:42",
+                "victim_name": "[RMC] Monty",
+                "distance": "1007m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[STELS]Zealot",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:31:35",
+                "victim_name": "[RMC] Monty",
+                "distance": "1112m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[SYND] DAntey",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Baskerville 1-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:22:15",
+                    "victim_name": "[URAL] Alexs",
+                    "distance": "88m",
+                    "weapon": "[BAF] L7A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[TERA] kilmil",
+            "frags": 2,
+            "side": "WEST",
+            "group": "Hound 4-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:19:15",
+                    "victim_name": "[Гивай] DuckSide",
+                    "distance": "345m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:36:35",
+                    "victim_name": "[STELS]Jason",
+                    "distance": "63m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[VRG] Matvein",
+            "frags": 4,
+            "side": "WEST",
+            "group": "Baskerville 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:15:45",
+                    "victim_name": "[520th] Gast",
+                    "distance": "80m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:29:56",
+                    "victim_name": "Dw. Zloy_aka_JIbI4",
+                    "distance": "491m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:30:08",
+                    "victim_name": "Dw. Bear_Baby_Bear",
+                    "distance": "469m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:31:46",
+                    "victim_name": "Tractor (Old)",
+                    "distance": "794m",
+                    "weapon": "Binoculars",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:36:29",
+                    "victim_name": "k1llsw1tch!",
+                    "distance": "16m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[13th] Doloman",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kounoupion 2-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:18:04",
+                "victim_name": "[TERA] Nekip",
+                "distance": "86m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[AGG] Sum_Pack",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 1,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:36:24",
+                    "victim_name": "Dimitiros Moraiti",
+                    "distance": "32m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[CA] AleekseeV",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Koinotita 3-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:31:12",
+                "victim_name": "[NT] Marnet",
+                "distance": "580m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[Delta]Ogrizok",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Hound 4-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:19:13",
+                "victim_name": "[STELS]Jason",
+                "distance": "8m",
+                "weapon": "РПГ-7В2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[LG] NotSkvich",
+            "frags": 2,
+            "side": "GUER",
+            "group": "Kounoupion 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:29:06",
+                    "victim_name": "[RMC] Marshall",
+                    "distance": "17m",
+                    "weapon": "L1A1 [Wood]",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:34:00",
+                    "victim_name": "[TERA] Nekip",
+                    "distance": "58m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:34:06",
+                "victim_name": "[FSK]nurmuh",
+                "distance": "36m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[NT] Gookowski",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Baskerville 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:14:03",
+                    "victim_name": "[CA] Bogdan Spivak",
+                    "distance": "62m",
+                    "weapon": "L9A1",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:14:03",
+                "victim_name": "[CA] Efr.",
+                "distance": "222m",
+                "weapon": "L1A1 [Polymer]",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[NT] NKVDshnik",
+            "frags": 4,
+            "side": "WEST",
+            "group": "Baskerville 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:11:56",
+                    "victim_name": "[CA] Cake_is_lie",
+                    "distance": "367m",
+                    "weapon": "L9A1",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:19:16",
+                    "victim_name": "[CA] Efr.",
+                    "distance": "216m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:36:49",
+                    "victim_name": "[13th] Smittsam",
+                    "distance": "28m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:37:51",
+                    "victim_name": "[StB]rezakpower",
+                    "distance": "128m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[NT] SexFlexer",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Baskerville 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:41:17",
+                    "victim_name": "Dw. nikokrav",
+                    "distance": "30m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[RDO] Чича",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kounoupion 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:35:11",
+                "victim_name": "[TERA] KSander",
+                "distance": "56m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[RMC] Marshall",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:11:37",
+                    "victim_name": "Datsun 620 Pickup (PKM)",
+                    "distance": "875m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:29:06",
+                "victim_name": "[LG] NotSkvich",
+                "distance": "17m",
+                "weapon": "L1A1 [Wood]",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[SYND] Arssik7",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 1-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:22:09",
+                "victim_name": "[SYND] Герань",
+                "distance": "37m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[TERA] KSander",
+            "frags": 3,
+            "side": "WEST",
+            "group": "Baskerville 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:35:11",
+                    "victim_name": "[RDO] Nael",
+                    "distance": "53m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:35:11",
+                    "victim_name": "[RDO] Чича",
+                    "distance": "56m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:38:10",
+                    "victim_name": "[StB]Psikh",
+                    "distance": "3m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[TERA] Vadimkl",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Hound 4-1",
+            "teamkills": 0,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:20:33",
+                    "victim_name": "Land Rover 110 (HMG)",
+                    "distance": "230m",
+                    "weapon": "[BAF] L85A2 (L123A3 HWS)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:26:43",
+                    "victim_name": "[TF] Milan",
+                    "distance": "810m",
+                    "weapon": "Binoculars",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:29:42",
+                "victim_name": "[STELS]Vaza",
+                "distance": "679m",
+                "weapon": "[BAF] L119A1",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[13th] Evgenrus",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kounoupion 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:13:16",
+                "victim_name": "*ARMA*",
+                "distance": "-1m",
+                "weapon": "no weapon",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[13th] Godzilla",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kounoupion 2-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:17:58",
+                "victim_name": "[TERA] Nekip",
+                "distance": "39m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[13th] Smittsam",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kounoupion 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:36:59",
+                    "victim_name": "Hilux (ZU23)",
+                    "distance": "25m",
+                    "weapon": "Browning Hi-Power",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:36:49",
+                "victim_name": "[NT] NKVDshnik",
+                "distance": "28m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[Delta] Delovoy",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Hound 4-2",
+            "teamkills": 1,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "TK",
+                    "time": "0:17:23",
+                    "victim_name": "[Delta]nikodeli",
+                    "distance": "4m",
+                    "weapon": "[Tier 1] M249 PIP Short [Desert]",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:19:13",
+                "victim_name": "[STELS]Jason",
+                "distance": "10m",
+                "weapon": "РПГ-7В2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[Delta]nikodeli",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Hound 4-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:17:23",
+                "victim_name": "[Delta] Delovoy",
+                "distance": "4m",
+                "weapon": "[Tier 1] M249 PIP Short [Desert]",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[StB]rezakpower",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:37:51",
+                "victim_name": "[NT] NKVDshnik",
+                "distance": "128m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[TERA] Altesair",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:17:57",
+                "victim_name": "[TERA]kastet",
+                "distance": "16m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[13th] WoWrostov",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kounoupion 2-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:13:16",
+                "victim_name": "*ARMA*",
+                "distance": "-1m",
+                "weapon": "no weapon",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[CA] Cake_is_lie",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Koinotita 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:11:56",
+                "victim_name": "[NT] NKVDshnik",
+                "distance": "367m",
+                "weapon": "L9A1",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[FSK] Ерсын",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:30:51",
+                "victim_name": "[LG]k0t",
+                "distance": "377m",
+                "weapon": "[BAF] L119A1 CQB",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[STELS]SemFisher",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kokkino 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:30:04",
+                    "victim_name": "[TERA] teran",
+                    "distance": "79m",
+                    "weapon": "MG42",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:33:21",
+                "victim_name": "[RMC] Monty",
+                "distance": "816m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[VRG] Wojciech84",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Baskerville 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:15:46",
+                    "victim_name": "[7th]karas'",
+                    "distance": "420m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:16:40",
+                "victim_name": "[520th] SKY",
+                "distance": "7m",
+                "weapon": "[BAF] L119A1",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[VRG] llBa1kerll",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 2-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:17:47",
+                "victim_name": "[Гивай]Snow Murakami",
+                "distance": "1374m",
+                "weapon": "[BAF] L119A1",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Dimitiros Moraiti",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Koinotita 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:36:24",
+                "victim_name": "[AGG] Sum_Pack",
+                "distance": "32m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Hatchback (Sport)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:40:14",
+                "victim_name": "[RMC] Monty",
+                "distance": "784m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Hilux (Artillery)",
+            "frags": 1,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:25:35",
+                    "victim_name": "[RMC]Jastik",
+                    "distance": "2157m",
+                    "weapon": "no weapon",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:22",
+                "victim_name": "[RMC] Monty",
+                "distance": "2150m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[SYND] Масло",
+            "frags": 1,
+            "side": "WEST",
+            "group": "Baskerville 1-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:14:05",
+                    "victim_name": "[URAL] Mosinka_Stalina",
+                    "distance": "225m",
+                    "weapon": "[BAF] L85A2 (L123A2)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:22:26",
+                "victim_name": "[TERA]Zloy",
+                "distance": "93m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[TERA]gestern_tag",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Hound 4-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:18:55",
+                "victim_name": "[Гивай] DuckSide",
+                "distance": "480m",
+                "weapon": "M24 SWS",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[СМЕРШ]Zaba4",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:31:52",
+                "victim_name": "[UN] MACTEP",
+                "distance": "169m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Dw. Bear_Baby_Bear",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:30:08",
+                "victim_name": "[VRG] Matvein",
+                "distance": "469m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Dw. Zloy_aka_JIbI4",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:29:56",
+                "victim_name": "[VRG] Matvein",
+                "distance": "491m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[CA] Bogdan Spivak",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Koinotita 3-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:14:03",
+                "victim_name": "[NT] Gookowski",
+                "distance": "62m",
+                "weapon": "L9A1",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[СМЕРШ] Renne",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:31:05",
+                "victim_name": "[RMC] Monty",
+                "distance": "1561m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[СМЕРШ]Coffee",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kokkino 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 1,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:34:06",
+                    "victim_name": "Hilux (DHSKM)",
+                    "distance": "113m",
+                    "weapon": "Sa vz. 61 (Folded)",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                },
+                {
+                    "kill_type": "",
+                    "time": "0:36:55",
+                    "victim_name": "[TERA]kastet",
+                    "distance": "207m",
+                    "weapon": "M79",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:38:03",
+                "victim_name": "Olegius",
+                "distance": "69m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Dw. Ridchard_Gordan",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kokkino 1-6",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:37:14",
+                    "victim_name": "zlodei",
+                    "distance": "30m",
+                    "weapon": "MG42",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:38:05",
+                "victim_name": "[TERA] NaGa",
+                "distance": "72m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Jackal 2 GMG Desert",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:19:13",
+                "victim_name": "[STELS]Jason",
+                "distance": "15m",
+                "weapon": "РПГ-7В2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Jackal 2 HMG Desert",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:28:22",
+                "victim_name": "[LG]k0t",
+                "distance": "69m",
+                "weapon": "RPG-75 (used)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "M2 HMG .50 (Raised)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:42:00",
+                "victim_name": "[TERA] NaGa",
+                "distance": "90m",
+                "weapon": "РПГ-7В2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[AGG]trinadtsatiyyy",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:41:06",
+                "victim_name": "Dw. nikokrav",
+                "distance": "9m",
+                "weapon": "[BAF] L119A1",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[SYND] Герань",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 1-5",
+            "teamkills": 1,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "TK",
+                    "time": "0:22:09",
+                    "victim_name": "[SYND] Arssik7",
+                    "distance": "37m",
+                    "weapon": "[BAF] L85A2",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:22:13",
+                "victim_name": "[URAL] Alexs",
+                "distance": "33m",
+                "weapon": "L1A1 [Polymer]",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Land Rover 110 (HMG)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:20:33",
+                "victim_name": "[TERA] Vadimkl",
+                "distance": "230m",
+                "weapon": "[BAF] L85A2 (L123A3 HWS)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[SYND] Pipinkorotkiy",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 1-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:13:11",
+                "victim_name": "[URAL] Mosinka_Stalina",
+                "distance": "388m",
+                "weapon": "L1A1 [Wood]",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[РДО] VavvVay :З",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kounoupion 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:40:15",
+                    "victim_name": "[RMC] Teng",
+                    "distance": "4m",
+                    "weapon": "[BAF] L119A1",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": null
+        },
+        {
+            "player_name": "[СМЕРШ] lazcore",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-1",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:31:05",
+                "victim_name": "[RMC] Monty",
+                "distance": "1559m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[RDO] А ГейСер",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kounoupion 2-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:38:12",
+                    "victim_name": "[RE]Gakcter5",
+                    "distance": "6m",
+                    "weapon": "[BAF] L119A1 CQB",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "TK",
+                "time": "0:40:11",
+                "victim_name": "[JW] BAN",
+                "distance": "5m",
+                "weapon": "MG42",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[Гивай] DuckSide",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kokkino 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:18:55",
+                    "victim_name": "[TERA]gestern_tag",
+                    "distance": "480m",
+                    "weapon": "M24 SWS",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:19:15",
+                "victim_name": "[TERA] kilmil",
+                "distance": "345m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[520th] Эфедрин",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-5",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:18:59",
+                "victim_name": "[AGG] Nosyam",
+                "distance": "69m",
+                "weapon": "[BAF] L7A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[AGG] John_de_Pa`Atras",
+            "frags": 0,
+            "side": "WEST",
+            "group": "Baskerville 1-4",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:34:28",
+                "victim_name": "[STELS]Jason",
+                "distance": "23m",
+                "weapon": "[BAF] L119A1 CQB",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[URAL] Mosinka_Stalina",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Koinotita 3-3",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:13:11",
+                    "victim_name": "[SYND] Pipinkorotkiy",
+                    "distance": "388m",
+                    "weapon": "L1A1 [Wood]",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:14:05",
+                "victim_name": "[SYND] Масло",
+                "distance": "225m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Datsun 620 Pickup (PKM)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:11:37",
+                "victim_name": "[RMC] Marshall",
+                "distance": "875m",
+                "weapon": "[BAF] L85A2 (L123A2)",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "Datsun 620 Pickup (Open)",
+            "frags": 0,
+            "side": "no_side",
+            "group": "no_group",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:18:30",
+                "victim_name": "[UN]BATRA",
+                "distance": "396m",
+                "weapon": "[BAF] L85A2",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[Гивай]Snow Murakami",
+            "frags": 1,
+            "side": "GUER",
+            "group": "Kokkino 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [
+                {
+                    "kill_type": "",
+                    "time": "0:17:47",
+                    "victim_name": "[VRG] llBa1kerll",
+                    "distance": "1374m",
+                    "weapon": "[BAF] L119A1",
+                    "mission_id": "5650",
+                    "mission_date": "2025-08-02"
+                }
+            ],
+            "death": {
+                "kill_type": "",
+                "time": "0:25:14",
+                "victim_name": "[RMC] Monty",
+                "distance": "2149m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        },
+        {
+            "player_name": "[СМЕРШ] Змагар",
+            "frags": 0,
+            "side": "GUER",
+            "group": "Kokkino 1-2",
+            "teamkills": 0,
+            "vehicle_kills": 0,
+            "ai_kills": 0,
+            "victims": [],
+            "death": {
+                "kill_type": "",
+                "time": "0:28:31",
+                "victim_name": "[RMC] Monty",
+                "distance": "946m",
+                "weapon": "[BAF] L22",
+                "mission_id": "5650",
+                "mission_date": "2025-08-02"
+            }
+        }
+    ],
+    "team_stats": {
+        "LG": {
+            "frags": 6,
+            "teamkills": 0,
+            "deaths": 6,
+            "side": "GUER"
+        },
+        "RMC": {
+            "frags": 20,
+            "teamkills": 1,
+            "deaths": 5,
+            "side": "WEST"
+        },
+        "StB": {
+            "frags": 1,
+            "teamkills": 0,
+            "deaths": 3,
+            "side": "GUER"
+        },
+        "TF": {
+            "frags": 0,
+            "teamkills": 0,
+            "deaths": 2,
+            "side": "GUER"
+        },
+        "7th": {
+            "frags": 0,
+            "teamkills": 0,
+            "deaths": 3,
+            "side": "GUER"
+        },
+        "UN": {
+            "frags": 4,
+            "teamkills": 1,
+            "deaths": 2,
+            "side": "WEST"
+        },
+        "VRG": {
+            "frags": 6,
+            "teamkills": 0,
+            "deaths": 8,
+            "side": "WEST"
+        },
+        "Dw": {
+            "frags": 2,
+            "teamkills": 0,
+            "deaths": 6,
+            "side": "GUER"
+        },
+        "RDO": {
+            "frags": 1,
+            "teamkills": 0,
+            "deaths": 4,
+            "side": "GUER"
+        },
+        "TERA": {
+            "frags": 11,
+            "teamkills": 2,
+            "deaths": 7,
+            "side": "WEST"
+        },
+        "URAL": {
+            "frags": 2,
+            "teamkills": 0,
+            "deaths": 5,
+            "side": "GUER"
+        },
+        "13th": {
+            "frags": 1,
+            "teamkills": 0,
+            "deaths": 8,
+            "side": "GUER"
+        },
+        "520th": {
+            "frags": 5,
+            "teamkills": 0,
+            "deaths": 3,
+            "side": "GUER"
+        },
+        "AGG": {
+            "frags": 2,
+            "teamkills": 1,
+            "deaths": 3,
+            "side": "WEST"
+        },
+        "FSK": {
+            "frags": 1,
+            "teamkills": 0,
+            "deaths": 2,
+            "side": "WEST"
+        },
+        "KSK": {
+            "frags": 0,
+            "teamkills": 0,
+            "deaths": 2,
+            "side": "GUER"
+        },
+        "NT": {
+            "frags": 8,
+            "teamkills": 0,
+            "deaths": 4,
+            "side": "WEST"
+        },
+        "SNZ": {
+            "frags": 0,
+            "teamkills": 0,
+            "deaths": 1,
+            "side": "WEST"
+        },
+        "STELS": {
+            "frags": 7,
+            "teamkills": 0,
+            "deaths": 3,
+            "side": "GUER"
+        },
+        "RE": {
+            "frags": 1,
+            "teamkills": 0,
+            "deaths": 1,
+            "side": "WEST"
+        },
+        "SYND": {
+            "frags": 2,
+            "teamkills": 1,
+            "deaths": 4,
+            "side": "WEST"
+        },
+        "СМЕРШ": {
+            "frags": 1,
+            "teamkills": 0,
+            "deaths": 5,
+            "side": "GUER"
+        },
+        "Гивай": {
+            "frags": 2,
+            "teamkills": 0,
+            "deaths": 2,
+            "side": "GUER"
+        }
+    }
+}
