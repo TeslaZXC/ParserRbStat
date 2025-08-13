@@ -33,7 +33,7 @@ def parse_ocap_table(url):
 
     rows = sorted(rows, key=extract_id, reverse=True)
 
-    days_ago = MONTHS 
+    days_ago = MONTHS * 30
     date_threshold = datetime.now() - timedelta(days=days_ago)
 
     missions = []
