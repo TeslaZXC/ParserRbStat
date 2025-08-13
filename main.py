@@ -8,9 +8,7 @@ from missions_parser import parse_ocap_table, sanitize_filename
 from stats_parser import fetch_and_update_stats
 from stat_squad import process_file_with_team_stats, load_json_file
 from aggregate_stats import aggregate_stats
-
-PROCESSED_FILE = 'processed_missions.json'
-MISSION_DETAILS_DIR = 'temp/mission-details'
+from config import *
 
 def log(msg):
     """Печать сообщения с текущим временем."""
@@ -28,13 +26,13 @@ def save_processed_missions(processed_ids):
 
 def main_loop():
     os.makedirs(MISSION_DETAILS_DIR, exist_ok=True)
-    team_tags = load_json_file('team.json')
+    team_tags = load_json_file(TEAMP_DIR)
 
     processed_ids = load_processed_missions()
 
     while True:
         log("Парсим список миссий...")
-        missions = parse_ocap_table("http://stats.red-bear.ru/", limit=100)
+        missions = parse_ocap_table("http://stats.red-bear.ru/")
         log(f"Найдено миссий: {len(missions)}")
 
         new_missions = [m for m in missions if m['id'] not in processed_ids]
@@ -61,7 +59,6 @@ def main_loop():
 
             save_processed_missions(processed_ids)
 
-        # Обновляем статистику **в любом случае** после получения миссий (независимо от новых)
         try:
             log("Обновляем общую статистику...")
             aggregate_stats()

@@ -5,14 +5,14 @@ from datetime import datetime, timedelta
 import requests
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
+from config import *
 
 HEADERS = {'User-Agent': UserAgent().random}
-URL = "http://stats.red-bear.ru/"
 
 def sanitize_filename(filename):
     return re.sub(r'[<>:"/\\|?*]', '', filename)
 
-def parse_ocap_table(url, limit=100, months=3):
+def parse_ocap_table(url):
     response = requests.get(url, headers=HEADERS)
     response.raise_for_status()
 
@@ -32,9 +32,8 @@ def parse_ocap_table(url, limit=100, months=3):
             return -1  
 
     rows = sorted(rows, key=extract_id, reverse=True)
-    rows = rows[:limit]
 
-    days_ago = months * 30
+    days_ago = MONTHS 
     date_threshold = datetime.now() - timedelta(days=days_ago)
 
     missions = []
@@ -77,7 +76,6 @@ def parse_ocap_table(url, limit=100, months=3):
         if ocap_link.startswith('/'):
             ocap_link = 'https://ocap.red-bear.ru' + ocap_link
 
-        # Извлечь имя файла из ocap_link
         parsed = urllib.parse.urlparse(ocap_link)
         query = urllib.parse.parse_qs(parsed.query)
         filename = query.get('file', [None])[0]
@@ -104,14 +102,18 @@ def parse_ocap_table(url, limit=100, months=3):
 def main():
     os.makedirs('temp/missions', exist_ok=True)
     
-    missions = parse_ocap_table(URL, limit=100, months=1)
-    
+    missions = parse_ocap_table(URL)  
+    total = len(missions)
+    print(f"Найдено {total} миссий для парсинга.\n")
+
     import json
-    for m in missions:
+    for idx, m in enumerate(missions, start=1):
         filename = f"temp/missions/{sanitize_filename(m['mission_name'])}.json"
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(m, f, ensure_ascii=False, indent=4)
-        print(f"Сохранена миссия {m['mission_name']}")
+
+        remaining = total - idx
+        print(f"Сохранена миссия {m['mission_name']} ({idx}/{total}, осталось {remaining})")
 
 if __name__ == "__main__":
     main()
