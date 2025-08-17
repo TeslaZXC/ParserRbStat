@@ -154,6 +154,12 @@ def aggregate_stats_for_period(start_date: datetime, end_date: datetime):
 
 def aggregate_stats():
     today = datetime.now()
+
+    if os.path.exists("temp"):
+        for fname in os.listdir("temp"):
+            if fname.startswith("stats_") and fname.endswith(".json"):
+                os.remove(os.path.join("temp", fname))
+
     seasons = get_season_ranges(SEASON_START_DATE, today, SEASON_LENGTH_MONTHS)
     for start, end in seasons:
         aggregate_stats_for_period(start, end)
