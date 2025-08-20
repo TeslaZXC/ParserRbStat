@@ -69,13 +69,11 @@ def aggregate_all_missions():
             player_stats[pname]['frag_inf'] += player.get('frag_inf', 0)
             player_stats[pname]['frag_veh'] += player.get('frag_veh', 0)
             player_stats[pname]['destroyed_vehicles'] += player.get('destroyed_vehicles', 0)
-
             player_stats[pname]['frags'] = (
                 player_stats[pname]['frag_inf'] +
                 player_stats[pname]['frag_veh'] +
                 player_stats[pname]['destroyed_vehicles']
             )
-
             player_stats[pname]['teamkills'] += player.get('teamkills', 0)
 
             if player.get('death'):
@@ -99,15 +97,26 @@ def aggregate_all_missions():
                     'deaths': 0,
                     'missions_played': 0,
                     'total_players': 0,
-                    'score': 0.0
+                    'score': 0.0,
+                    'missions': []  
                 }
 
             if formatted_team_name not in teams_in_this_mission:
                 team_stats[formatted_team_name]['missions_played'] += 1
                 teams_in_this_mission.add(formatted_team_name)
 
-            team_info['total_players'] = team_info.get('total_players', 0)
+                mission_info = {
+                    'id': data.get('id'),
+                    'mission_name': data.get('mission_name'),
+                    'map': data.get('map'),
+                    'date': data.get('date'),
+                    'frags': team_info.get('frags', 0),
+                    'deaths': team_info.get('deaths', 0),
+                    'teamkills': team_info.get('teamkills', 0)
+                }
+                team_stats[formatted_team_name]['missions'].append(mission_info)
 
+            team_info['total_players'] = team_info.get('total_players', 0)
             add_counts(team_stats[formatted_team_name], team_info)
 
     for tname, tstats in team_stats.items():
@@ -124,7 +133,7 @@ def aggregate_all_missions():
     }
 
     os.makedirs('temp', exist_ok=True)
-    output_filename = f"temp/all_stats.json"
+    output_filename = "temp/all_stats.json"
     with open(output_filename, 'w', encoding='utf-8') as f_out:
         json.dump(summary, f_out, indent=4, ensure_ascii=False)
 
