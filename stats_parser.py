@@ -164,7 +164,7 @@ def parse_stats_table(soup, mission_id=None, mission_date=None):
 
         player_data = {
             "player_name": player_name,
-            "frags": frag_inf_count + frag_veh_count,
+            "frags": frag_inf_count + frag_veh_count - teamkills,
             "frag_inf": frag_inf_count,
             "frag_veh": frag_veh_count,
             "destroyed_vehicles": destroyed_vehicles_count,

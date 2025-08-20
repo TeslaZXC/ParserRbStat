@@ -27,13 +27,25 @@ def get_season_ranges(start_date, end_date, months_per_season):
     return seasons
 
 def format_nick(name: str) -> str:
+    if not name:
+        return name
     name = re.sub(r'\[([^\]]+)\]', lambda m: f"[{m.group(1).upper()}]", name)
     if name.startswith("Dw."):
         name = "DW." + name[3:]
     return name
 
 def format_team(name: str) -> str:
-    return name.upper()
+    return name.upper() if name else "UNKNOWN"
+
+def has_tag(nick: str) -> bool:
+    """Проверка, что ник содержит клан-тег ([TAG] или Dw.)"""
+    if not nick:
+        return False
+    return bool(re.match(r"^\[[A-Za-z0-9]+\]", nick)) or nick.startswith("DW.")
+
+def clean_player_stats(stats: dict) -> dict:
+    """Удаляем лишние поля (victims, deaths)"""
+    return {k: v for k, v in stats.items() if k not in ("victims", "deaths")}
 
 def aggregate_stats_for_period(start_date: datetime, end_date: datetime):
     print(f"Сезон: {start_date.date()} - {end_date.date()}")
@@ -121,24 +133,12 @@ def aggregate_stats_for_period(start_date: datetime, end_date: datetime):
                     'deaths': 0,
                     'missions_played': 0,
                     'total_players': 0,
-                    'score': 0.0,
-                    'missions': []   
+                    'score': 0.0
                 }
 
             if formatted_team_name not in teams_in_this_mission:
                 team_stats[formatted_team_name]['missions_played'] += 1
                 teams_in_this_mission.add(formatted_team_name)
-
-                mission_info = {
-                    'id': data.get('id'),
-                    'mission_name': data.get('mission_name'),
-                    'map': data.get('map'),
-                    'date': data.get('date'),
-                    'frags': team_info.get('frags', 0),
-                    'deaths': team_info.get('deaths', 0),
-                    'teamkills': team_info.get('teamkills', 0)
-                }
-                team_stats[formatted_team_name]['missions'].append(mission_info)
 
             team_info['total_players'] = team_info.get('total_players', 0)
             add_counts(team_stats[formatted_team_name], team_info)
@@ -162,18 +162,114 @@ def aggregate_stats_for_period(start_date: datetime, end_date: datetime):
         json.dump(summary, f_out, indent=4, ensure_ascii=False)
 
     print(f"Сезон сохранён: {output_filename} — всего игроков: {len(player_stats)}")
+    return summary
 
-def aggregate_stats():
+def get_season_tops(season_data: dict):
+    players = season_data['players']
+    teams = season_data['teams']
+
+    def safe_div(x, y):
+        return x / y if y > 0 else 0
+
+    def valid_players():
+        """Отфильтрованные игроки по условиям"""
+        return {
+            pname: pdata for pname, pdata in players.items()
+            if pdata['missions_played'] > 5 and has_tag(pname)
+        }
+
+    tops = {}
+
+    def player_entry(name, value, details):
+        return {"name": name, "value": value, "details": clean_player_stats(details)}
+
+    vp = valid_players()
+    if not vp:
+        return tops  
+
+    best_overall = max(vp.items(), key=lambda kv: safe_div(kv[1]['frags'], kv[1]['missions_played']))
+    pname, pdata = best_overall
+    tops['best_overall'] = player_entry(pname, round(safe_div(pdata['frags'], pdata['missions_played']), 2), pdata)
+
+    best_vehicle = max(vp.items(), key=lambda kv: safe_div(kv[1]['frag_veh'], kv[1]['missions_played']))
+    pname, pdata = best_vehicle
+    tops['best_vehicle'] = player_entry(pname, round(safe_div(pdata['frag_veh'], pdata['missions_played']), 2), pdata)
+
+    best_infantry = max(vp.items(), key=lambda kv: safe_div(kv[1]['frag_inf'], kv[1]['missions_played']))
+    pname, pdata = best_infantry
+    tops['best_infantry'] = player_entry(pname, round(safe_div(pdata['frag_inf'], pdata['missions_played']), 2), pdata)
+
+    best_destroyer = max(vp.items(), key=lambda kv: kv[1]['destroyed_vehicles'])
+    pname, pdata = best_destroyer
+    tops['best_destroyer'] = player_entry(pname, pdata['destroyed_vehicles'], pdata)
+
+    teamkiller = max(vp.items(), key=lambda kv: kv[1]['teamkills'])
+    pname, pdata = teamkiller
+    tops['teamkiller'] = player_entry(pname, pdata['teamkills'], pdata)
+
+    sniper = None
+    sniper_dist = 0
+    sniper_details = None
+    for pname, stats in vp.items():
+        for v in stats['victims']:
+            if v.get('frag_type') == "infantry":
+                try:
+                    dist = int(v['distance'].replace("m", ""))
+                except:
+                    continue
+                if dist > sniper_dist:
+                    sniper_dist = dist
+                    sniper = pname
+                    sniper_details = v
+    if sniper:
+        tops['best_sniper'] = {"name": sniper, "value": sniper_dist, "details": sniper_details}
+
+    veh_sniper = None
+    veh_dist = 0
+    veh_details = None
+    for pname, stats in vp.items():
+        for v in stats['victims']:
+            if v.get('frag_type') == "vehicle_kill":
+                try:
+                    dist = int(v['distance'].replace("m", ""))
+                except:
+                    continue
+                if dist > veh_dist:
+                    veh_dist = dist
+                    veh_sniper = pname
+                    veh_details = v
+    if veh_sniper:
+        tops['best_vehicle_distance'] = {"name": veh_sniper, "value": veh_dist, "details": veh_details}
+
+    if teams:
+        best_team = max(teams.items(), key=lambda kv: kv[1]['score'])
+        tname, tdata = best_team
+        tops['best_team'] = {"name": tname, "value": round(tdata['score'], 2), "details": tdata}
+
+        teamkill_team = max(teams.items(), key=lambda kv: kv[1]['teamkills'])
+        tname, tdata = teamkill_team
+        tops['teamkill_team'] = {"name": tname, "value": tdata['teamkills'], "details": tdata}
+
+    return tops
+
+def aggregate_top():
     today = datetime.now()
 
     if os.path.exists("temp"):
         for fname in os.listdir("temp"):
-            if fname.startswith("stats_") and fname.endswith(".json"):
+            if fname.startswith("stats_") or fname == "tops.json":
                 os.remove(os.path.join("temp", fname))
 
     seasons = get_season_ranges(SEASON_START_DATE, today, SEASON_LENGTH_MONTHS)
+    last_season_summary = None
     for start, end in seasons:
-        aggregate_stats_for_period(start, end)
+        last_season_summary = aggregate_stats_for_period(start, end)
+
+    if last_season_summary:
+        tops = get_season_tops(last_season_summary)
+        with open("temp/tops.json", "w", encoding="utf-8") as f:
+            json.dump(tops, f, indent=4, ensure_ascii=False)
+        print("Топы сезона сохранены: temp/tops.json")
 
 if __name__ == '__main__':
-    aggregate_stats()
+    aggregate_top()

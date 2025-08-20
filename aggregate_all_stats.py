@@ -4,28 +4,6 @@ import re
 from datetime import datetime
 from config import *
 
-def add_months(dt, months):
-    month = dt.month - 1 + months
-    year = dt.year + month // 12
-    month = month % 12 + 1
-    day = min(dt.day, [
-        31,
-        29 if year % 4 == 0 and (year % 100 != 0 or year % 400 == 0) else 28,
-        31, 30, 31, 30, 31, 31, 30, 31, 30, 31
-    ][month - 1])
-    return datetime(year, month, day)
-
-def get_season_ranges(start_date, end_date, months_per_season):
-    seasons = []
-    current_start = start_date
-    while current_start < end_date:
-        current_end = add_months(current_start, months_per_season)
-        if current_end > end_date:
-            current_end = end_date
-        seasons.append((current_start, current_end))
-        current_start = current_end
-    return seasons
-
 def format_nick(name: str) -> str:
     name = re.sub(r'\[([^\]]+)\]', lambda m: f"[{m.group(1).upper()}]", name)
     if name.startswith("Dw."):
@@ -35,11 +13,12 @@ def format_nick(name: str) -> str:
 def format_team(name: str) -> str:
     return name.upper()
 
-def aggregate_stats_for_period(start_date: datetime, end_date: datetime):
-    print(f"Сезон: {start_date.date()} - {end_date.date()}")
+def aggregate_all_missions():
+    print("Собираем общую статистику по всем миссиям...")
 
     player_stats = {}
     team_stats = {}
+    total_missions = 0
 
     def add_counts(dest, source):
         for key in ['frags', 'teamkills', 'deaths', 'total_players']:
@@ -63,10 +42,9 @@ def aggregate_stats_for_period(start_date: datetime, end_date: datetime):
             except ValueError:
                 continue
 
-        if not (start_date <= mission_date < end_date):
-            continue
-
+        total_missions += 1
         players_in_this_mission = set()
+
         for player in data.get('players_stats', []):
             pname = format_nick(player['player_name'])
             team_name = format_team(player.get('group', 'UNKNOWN'))
@@ -121,26 +99,15 @@ def aggregate_stats_for_period(start_date: datetime, end_date: datetime):
                     'deaths': 0,
                     'missions_played': 0,
                     'total_players': 0,
-                    'score': 0.0,
-                    'missions': []   
+                    'score': 0.0
                 }
 
             if formatted_team_name not in teams_in_this_mission:
                 team_stats[formatted_team_name]['missions_played'] += 1
                 teams_in_this_mission.add(formatted_team_name)
 
-                mission_info = {
-                    'id': data.get('id'),
-                    'mission_name': data.get('mission_name'),
-                    'map': data.get('map'),
-                    'date': data.get('date'),
-                    'frags': team_info.get('frags', 0),
-                    'deaths': team_info.get('deaths', 0),
-                    'teamkills': team_info.get('teamkills', 0)
-                }
-                team_stats[formatted_team_name]['missions'].append(mission_info)
-
             team_info['total_players'] = team_info.get('total_players', 0)
+
             add_counts(team_stats[formatted_team_name], team_info)
 
     for tname, tstats in team_stats.items():
@@ -152,28 +119,16 @@ def aggregate_stats_for_period(start_date: datetime, end_date: datetime):
     summary = {
         'players': {format_nick(name): stats for name, stats in player_stats.items()},
         'teams': team_stats,
-        'season_start': start_date.strftime("%Y-%m-%d"),
-        'season_end': end_date.strftime("%Y-%m-%d")
+        'total_missions': total_missions,
+        'date_generated': datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     }
 
     os.makedirs('temp', exist_ok=True)
-    output_filename = f"temp/stats_{start_date.strftime('%Y-%m-%d')}_{end_date.strftime('%Y-%m-%d')}.json"
+    output_filename = f"temp/all_stats.json"
     with open(output_filename, 'w', encoding='utf-8') as f_out:
         json.dump(summary, f_out, indent=4, ensure_ascii=False)
 
-    print(f"Сезон сохранён: {output_filename} — всего игроков: {len(player_stats)}")
-
-def aggregate_stats():
-    today = datetime.now()
-
-    if os.path.exists("temp"):
-        for fname in os.listdir("temp"):
-            if fname.startswith("stats_") and fname.endswith(".json"):
-                os.remove(os.path.join("temp", fname))
-
-    seasons = get_season_ranges(SEASON_START_DATE, today, SEASON_LENGTH_MONTHS)
-    for start, end in seasons:
-        aggregate_stats_for_period(start, end)
+    print(f"Общая статистика сохранена: {output_filename} — всего игроков: {len(player_stats)}, отрядов: {len(team_stats)}, миссий: {total_missions}")
 
 if __name__ == '__main__':
-    aggregate_stats()
+    aggregate_all_missions()

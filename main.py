@@ -8,7 +8,9 @@ from missions_parser import parse_ocap_table, sanitize_filename
 from stats_parser import fetch_and_update_stats
 from stat_squad import process_file_with_team_stats, load_json_file
 from aggregate_stats import aggregate_stats
+from aggregate_all_stats import aggregate_all_missions
 from config import *
+from aggregate_top_season import aggregate_top
 
 def log(msg):
     """Печать сообщения с текущим временем."""
@@ -62,6 +64,8 @@ def main_loop():
         try:
             log("Обновляем общую статистику...")
             aggregate_stats()
+            aggregate_all_missions()
+            # aggregate_top()
             log("Общая статистика обновлена.")
         except Exception as e:
             log(f"Ошибка при обновлении статистики: {e}")
