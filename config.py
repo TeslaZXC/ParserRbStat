@@ -1,9 +1,15 @@
-from datetime import datetime
+from pathlib import Path
+from pymongo import MongoClient
 
-MISSION_DETAILS_DIR = "temp/mission-details"
-SEASON_START_DATE = datetime(2025, 7, 1)
-PROCESSED_FILE = 'processed_missions.json'
-URL = "http://stats.red-bear.ru/"
-TEAMP_DIR = "team.json"
-MONTHS= 1
-SEASON_LENGTH_MONTHS = 1
+OCAPS_URL = 'https://ocap.red-bear.ru/api/v1/operations?tag=&name=&newer=2025-07-31&older=2099-12-12'
+OCAP_URL = 'https://ocap.red-bear.ru/data/%s'
+
+OCAPS_PATH = Path("ocaps")
+TEMP_PATH = Path("temp")
+SQUAD_FILE = Path("data/squad.json")
+
+mongo_client = MongoClient("mongodb://localhost:27017")  
+db = mongo_client["stats"]      
+collection = db["misssion_stat"]
+
+DOWNLOAD_DATE = "2025-08-18"

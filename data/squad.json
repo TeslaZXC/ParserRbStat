@@ -1,0 +1,127 @@
+{
+    "LG": {
+        "name": "LG",
+        "tag": "LG",
+        "url": "https://example.com/lg"
+    },
+    "TF": {
+        "name": "TF",
+        "tag": "TF",
+        "url": "https://example.com/tf"
+    },
+    "RMC": {
+        "name": "RMC",
+        "tag": "RMC",
+        "url": "https://example.com/rmc"
+    },
+    "7th": {
+        "name": "7th",
+        "tag": "7th",
+        "url": "https://example.com/rmc"
+    },
+    "SYND": {
+        "name": "SYND",
+        "tag": "SYND",
+        "url": "https://example.com/rmc"
+    },
+    "DG": {
+        "name": "DG",
+        "tag": "DG",
+        "url": "https://example.com/rmc"
+    },
+    "MPU": {
+        "name": "MPU",
+        "tag": "MPU",
+        "url": "https://example.com/rmc"
+    },
+    "СМЕРШ": {
+        "name": "СМЕРШ",
+        "tag": "СМЕРШ",
+        "url": "https://example.com/rmc"
+    },
+    "StB": {
+        "name": "StB",
+        "tag": "StB",
+        "url": "https://example.com/rmc"
+    },
+    "KSK": {
+        "name": "KSK",
+        "tag": "KSK",
+        "url": "https://example.com/rmc"
+    },
+    "Гивай": {
+        "name": "Гивай",
+        "tag": "Гивай",
+        "url": "https://example.com/rmc"
+    },
+    "RDO": {
+        "name": "RDO",
+        "tag": "RDO",
+        "url": "https://example.com/rmc"
+    },
+    "VRG": {
+        "name": "VRG",
+        "tag": "VRG",
+        "url": "https://example.com/rmc"
+    },
+    "URAL": {
+        "name": "URAL",
+        "tag": "URAL",
+        "url": "https://example.com/rmc"
+    },
+    "UN": {
+        "name": "UN",
+        "tag": "UN",
+        "url": "https://example.com/rmc"
+    },
+    "13th": {
+        "name": "13th",
+        "tag": "13th",
+        "url": "https://example.com/rmc"
+    },
+    "STELS": {
+        "name": "STELS",
+        "tag": "STELS",
+        "url": "https://example.com/rmc"
+    },
+    "SNZ": {
+        "name": "SNZ",
+        "tag": "SNZ",
+        "url": "https://example.com/rmc"
+    },
+    "RE": {
+        "name": "RE",
+        "tag": "RE",
+        "url": "https://example.com/rmc"
+    },
+    "520th": {
+        "name": "520th",
+        "tag": "520th",
+        "url": "https://example.com/rmc"
+    },
+    "NT": {
+        "name": "NT",
+        "tag": "NT",
+        "url": "https://example.com/rmc"
+    },
+    "TERA": {
+        "name": "TERA",
+        "tag": "TERA",
+        "url": "https://example.com/rmc"
+    },
+    "AGG": {
+        "name": "AGG",
+        "tag": "AGG",
+        "url": "https://example.com/rmc"
+    },
+    "Delta": {
+        "name": "Delta",
+        "tag": "Delta",
+        "url": "https://example.com/rmc"
+    },
+    "Dw": {
+        "name": "Dw",
+        "tag": "Dw",
+        "url": "https://example.com/rmc"
+    }    
+}
