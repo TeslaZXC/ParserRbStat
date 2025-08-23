@@ -1,7 +1,7 @@
 from pathlib import Path
 from pymongo import MongoClient
 
-OCAPS_URL = 'https://ocap.red-bear.ru/api/v1/operations?tag=&name=&newer=2025-07-31&older=2099-12-12'
+OCAPS_URL = 'https://ocap.red-bear.ru/api/v1/operations?tag=&name=&newer=2025-01-01&older=2099-12-12'
 OCAP_URL = 'https://ocap.red-bear.ru/data/%s'
 
 OCAPS_PATH = Path("ocaps")
@@ -12,4 +12,4 @@ mongo_client = MongoClient("mongodb://localhost:27017")
 db = mongo_client["stats"]      
 collection = db["misssion_stat"]
 
-DOWNLOAD_DATE = "2025-08-18"
+DOWNLOAD_DATE = "2025-03-15"

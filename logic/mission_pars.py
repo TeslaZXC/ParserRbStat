@@ -18,6 +18,10 @@ def load_squads() -> dict:
     return {}
 
 def process_ocap(ocap_file: Path):
+    if collection.find_one({"file": ocap_file.name}):
+        print(f"Файл {ocap_file.name} уже обработан, пропускаю.")
+        return
+
     with ocap_file.open("r", encoding="utf-8") as f:
         raw_data = json.load(f)
 
@@ -99,6 +103,12 @@ def process_ocap(ocap_file: Path):
     mission_name = raw_data.get("missionName", "Unknown Mission")
     world_name = raw_data.get("worldName", "Unknown World")
 
+    file_date = None
+    if "__" in ocap_file.stem:
+        file_date = ocap_file.stem.split("__")[0]
+    else:
+        file_date = "_".join(ocap_file.stem.split("_")[0:3])
+
     squads_stats: dict[str, dict] = {}
     for player in players_stats.values():
         squad_tag = player["squad"]
@@ -137,6 +147,7 @@ def process_ocap(ocap_file: Path):
 
     data = {
         "file": ocap_file.name,
+        "file_date": file_date,
         "game_type": ocap.game_type,
         "duration_frames": ocap.max_frame,
         "missionName": mission_name,

@@ -51,7 +51,6 @@ def main():
     for ocap_file in new_ocaps:
         print(f"Обрабатываем: {ocap_file.name}")
         process_ocap(ocap_file)
-    print(f"Обработка завершена. Результаты в папке '{TEMP_PATH}'")
 
 if __name__ == "__main__":
     main()
