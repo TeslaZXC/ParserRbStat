@@ -74,10 +74,11 @@ def process_ocap(ocap_file: Path):
                 kill_type = "tk"
                 killer_stats["tk"] += 1
             else:
-                kill_type = "kill"
                 if killer_vehicle:
+                    kill_type = "veh"  
                     killer_stats["frags_veh"] += 1
                 else:
+                    kill_type = "kill"
                     killer_stats["frags_inf"] += 1
 
             killer_stats["victims_players"].append({

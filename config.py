@@ -9,7 +9,7 @@ TEMP_PATH = Path("temp")
 SQUAD_FILE = Path("data/squad.json")
 
 mongo_client = MongoClient("mongodb://localhost:27017")  
-db = mongo_client["stats"]      
+db = mongo_client["stat"]      
 collection = db["misssion_stat"]
 
-DOWNLOAD_DATE = "2025-03-15"
+DOWNLOAD_DATE = "2025-08-23"
